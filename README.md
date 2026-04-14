@@ -5,7 +5,7 @@
 </tr>
 <tr>
 <td>Mostly technical fieldnotes from providing AWS partner ecosystem engineering support across PartnerCentral, Marketplace etc. Occasional insights from or detours into AWS partner/alliance business management and operations. <br> Warning! Some opinions included :-)</td>
-<td align="center"><center><a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="50%" height="50%"></a></center></td>
+<td align="center"><center><a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="100%" height="100%"></a></center></td>
 </tr>
 </table>
 
