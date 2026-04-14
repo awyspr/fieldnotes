@@ -1,9 +1,8 @@
+<a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="25%" height="25%" align="right"></a>
 
 # Here comes PRM (again)
 
 2026-04-07
-
-<a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="25%" height="25%" align="right"></a>
 
 ## So what's this one all about ?
 
