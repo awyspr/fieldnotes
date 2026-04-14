@@ -2,6 +2,17 @@
 | ----------- | ----------- |
 |  Mostly technical fieldnotes from providing AWS partner ecosystem engineering support across PartnerCentral, Marketplace etc. Occasional insights from or detours into AWS partner/alliance business management and operations. <br> Warning! Some opinions included :-) |  <center><a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="50%" height="50%"></a></center> |
 
+<table>
+<tr>
+<td>So what's all this then ? </td>
+<td>If you have more specific or complex AWS alliance support, partner/marketplace operations or partner ecosystem engineering requirements, check out how awyspr can help.</td>
+</tr>
+<tr>
+<td>Mostly technical fieldnotes from providing AWS partner ecosystem engineering support across PartnerCentral, Marketplace etc. Occasional insights from or detours into AWS partner/alliance business management and operations. <br> Warning! Some opinions included :-)</td>
+<td align="center"><center><a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="50%" height="50%"></a></center></td>
+</tr>
+</table>
+
 ---
 
 ## 2026
