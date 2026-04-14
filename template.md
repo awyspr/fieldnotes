@@ -2,7 +2,7 @@
 
 YYYY-MM-DD
 
-## Major heading
+## What's this one all about them ?
 
 Text
 
@@ -14,6 +14,6 @@ Text
 code block
 ```
 
-## The Wrap Up
+## The wrap up
 
 Text
