@@ -1,10 +1,10 @@
-<a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="25%" height="25%"></a>
+<a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="25%" height="25%" align="right"></a>
 
 # Here comes PRM (again)
 
 2026-04-07
 
-## So whats this all about ?
+## So what's this one all about ?
 
 While a lot of folk were getting into the chocolates over the Easter weekend, AWS have released new support info and capabilities for their previously released Partner Revenue Measurement (PRM) efforts. The [onboarding/getting started guide is updated](https://docs.aws.amazon.com/PRM/latest/aws-prm-onboarding-guide/getting-started.html).
 
