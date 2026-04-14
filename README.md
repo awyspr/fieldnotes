@@ -11,7 +11,6 @@
 
 ### April 2026
 * [2026-04-07 Here comes PRM (again)](2026-04-07-here-comes-prm-again.md)
-* [2026-04-01 April Fool](2026-04-01-april-fool.md)
 
 ### March 2026
 
@@ -21,13 +20,11 @@
 
 ## 2025
 
-### 2025-12
+### December 2025
 
-### 2025-11
+### November 2025
 
-### 2025-10
-
-### 2025-09
+### October 2025
 
 ---
 
