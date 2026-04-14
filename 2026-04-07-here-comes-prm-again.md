@@ -21,7 +21,41 @@ Perhaps the most notable addition is support for User Agent tagging of API/CLI c
 
 The HOW-TO part is pretty easy if you have some AWS technical experience:
 
-missing cnp
+The HOW-TO part is pretty easy if you have some AWS technical experience:
+
+1. Get the product code from the AWS Marketplace Management Portal.
+
+2. Create the User Agent string using the format ``APN_1.1/pc_<YOUR-PRODUCT-CODE>$``. (Don't trim the ``$``; its not a typo).
+
+3. Now here comes the hand-wavy bit - "update your AWS SDK Configuration to include the User Agent string". Lets assume you are at least going to experiment with the CLI and have an IAM user that has the right permissions so you can aws login without an error:
+
+``
+# Set user-agent string for AWS CLI
+
+export AWS_SDK_UA_APP_ID="APN_1.1/pc_xxxxxxxxxx$"
+
+# Example EC2 API call with user-agent
+
+aws ec2 run-instances --image-id ami-xxxxxxxxxx --instance-type t2.micro --region us-east-1
+``
+
+Check with your engineering folks that look after infrastructure as code as to how this needs to be embedded with your build/deployment process. If you have a complex product, or multiple products, you're going to need to build this in a few times, and if this all seems complicated, we're [happy to help]().
+
+4. Check it worked
+
+``
+# Check CloudTrail logs for user-agent string
+
+aws logs filter-log-events \
+
+  --log-group-name CloudTrail/YourLogGroup \
+
+  --filter-pattern "APN_1.1" \
+
+  --start-time 1640995200000
+``
+
+you should see something like this:
 
 
 ``
