@@ -19,7 +19,7 @@ But now its easy - [you don't have to do anything to make it work!!](https://doc
 
 ### User Agents
 
-Perhaps the most notable addition is support for User Agent tagging of API/CLI calls as a partial alternative to Resource tagging. There's only a subset of services currently supporting the [PRM UA](https://docs.aws.amazon.com/PRM/latest/aws-prm-onboarding-guide/user-agent-included-services.html), so there's still a gap between Resource-taggable and User Agent-taggable services and the possible total set of AWS services that could make up a workload which is tracked for PRM purposes. 
+Perhaps the most notable addition is support for User Agent tagging of API/CLI calls as a partial alternative to Resource tagging. There's only a [subset of services currently supporting the PRM UA](https://docs.aws.amazon.com/PRM/latest/aws-prm-onboarding-guide/user-agent-included-services.html), so there's still a gap between Resource-taggable and User Agent-taggable services and the possible total set of AWS services that could make up a workload which is tracked for PRM purposes. 
 
 The HOW-TO part is pretty easy if you have some AWS technical experience:
 
