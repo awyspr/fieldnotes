@@ -1,11 +1,4 @@
-<table>
-<tr>
-<td># Here comes PRM (again)
-</td>
-<td rowspan="2" align="center"><a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="100%" height="100%"></a></td>
-</tr>
-</table>
-
+<a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="100%" height="100%"></a></td>
 
 # Here comes PRM (again)
 
