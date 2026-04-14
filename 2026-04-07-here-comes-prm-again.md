@@ -33,11 +33,9 @@ The HOW-TO part is pretty easy if you have some AWS technical experience:
 
 ```
 # Set user-agent string for AWS CLI
-
 export AWS_SDK_UA_APP_ID="APN_1.1/pc_xxxxxxxxxx$"
 
 # Example EC2 API call with user-agent
-
 aws ec2 run-instances --image-id ami-xxxxxxxxxx --instance-type t2.micro --region us-east-1
 ```
 
@@ -47,14 +45,10 @@ Check with your engineering folks that look after infrastructure as code as to h
 
 ```
 # Check CloudTrail logs for user-agent string
-
 aws logs filter-log-events \
-
   --log-group-name CloudTrail/YourLogGroup \
-
   --filter-pattern "APN_1.1" \
-
-  --start-time 1640995200000
+  --start-time 1641395200000
 ```
 
 you should see something like this:
@@ -64,7 +58,7 @@ you should see something like this:
   "eventName": "RunInstances",
   "eventSource": "ec2.amazonaws.com",
   "userAgent": "APN_1.1/pc_xxxxxxxxxx$ aws-cli/2.0.0",
-  "sourceIPAddress": "203.0.113.12",
+  "sourceIPAddress": "42.32.106.19",
   "resources": [
     {
       "accountId": "123456789123",
