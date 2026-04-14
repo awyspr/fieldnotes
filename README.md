@@ -38,5 +38,5 @@ If this post solves a problem or makes you think differently, would you consider
 
 If you have more specific or complex AWS alliance support, partner/marketplace operations or partner ecosystem engineering requirements, check out how awyspr can help.
 
-<a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" size="50%"></a>
+<a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="50%" height="50%"></a>
 
