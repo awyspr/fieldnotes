@@ -41,7 +41,7 @@
 </td>
 <td width="50%">If you have more specific or complex AWS alliance support, partner/marketplace operations or partner ecosystem engineering requirements, check out how awyspr can help.
 <br>
-  <center><a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="25%" height="25%"></a></center>
+  <a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="25%" height="25%" align="center"></a>
 </td>
 </tr>
 </table>
