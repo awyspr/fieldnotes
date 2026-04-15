@@ -16,7 +16,7 @@ In practice what this means is:
 
 3. Ask your AWS systems team to create an IAM group specific to the AWSMP Discovery API, and add the IAM user from step 1 into that group. Putting a user into a group and adding a policy to a group is better practice than attaching permissions or policies directly - I digress.
 
-4. Ask your AWS systems team to review the Disco API Access Control requirements for the group from step 3, they can find the details [here](https://docs.aws.amazon.com/marketplace/latest/APIReference/discovery-api-access-control.html) The permissions are read-only but allow the following:
+4. Ask your AWS systems team to review the Discovery API access control requirements for the group from step 3, they can find the details [here](https://docs.aws.amazon.com/marketplace/latest/APIReference/discovery-api-access-control.html) The permissions are read-only but allow the following:
 
 * ```GetListing``` – Grants permission to retrieve information about a listing.
 * ```GetProduct``` – Grants permission to retrieve information about a product.
@@ -27,6 +27,8 @@ In practice what this means is:
 * ```ListFulfillmentOptions``` – Grants permission to list fulfillment options for a product.
 * ```SearchListings``` – Grants permission to search for product listings.
 * ```SearchFacets``` – Grants permission to retrieve facet values for filtering listings.
+
+So its read only. Its a subset of the AWS Managed policy for [MarketplaceRead-Only](https://docs.aws.amazon.com/marketplace/latest/buyerguide/buyer-security-iam-awsmanpol.html#security-iam-awsmanpol-awsmarketplaceread-only), but cut down just to the forward facing components, none of the transactional access.
 
 4. Apply the actual IAM policy to the group, again [from the docs](https://docs.aws.amazon.com/marketplace/latest/APIReference/discovery-api-access-control.html):
 
