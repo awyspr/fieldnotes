@@ -16,7 +16,7 @@ Text
 code block
 ```
 
-[sample icon](assets/aws-icons-resource-explorer.png)
+[sample icon](assets/aws-icons-resource-explorer.png?raw=true)
 
 ## The wrap up
 
