@@ -16,9 +16,7 @@ Text
 code block
 ```
 
-[sample icon](assets/aws-icons-resource-explorer.png)
-
-<img src="assets/aws-icons-resource-explorer.png">
+<img src="assets/aws-icons-resource-explorer.png" width ="50%" height="50%">
 
 ## The wrap up
 
