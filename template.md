@@ -4,7 +4,7 @@
 
 YYYY-MM-DD
 
-## What's this one all about them ?
+## What's this one all about then ?
 
 Text
 
