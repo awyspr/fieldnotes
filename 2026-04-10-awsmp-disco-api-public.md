@@ -22,9 +22,9 @@ operations and what type of information comes back in the payload.
 
 Open questions we're going to look into:
 
-* Does a Disco API call return all of the content thats on the web search version when a user hits up AWSMP 
+* Does a Discovery API call return all of the content thats on the web search version when a user hits up AWSMP 
 in a browser ? If not, whats missing ?
-* Does a Disco API call return the same list, order etc of search results as the web interface ? If not, 
+* Does a Discovery API call return the same list, order etc of search results as the web interface ? If not, 
 what's different, can we find (and perhaps understand) a pattern ?
 
 ## The wrap up
