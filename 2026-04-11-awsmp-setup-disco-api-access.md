@@ -12,7 +12,7 @@ In practice what this means is:
 
 1. Ask your AWS systems team to create an IAM user specific to the AWSMP Discovery API, and put it in a group for the same purpose. You can add extra permissions to an existing IAM user, but generally thats considered a bit dangerous as you can end up accumulating all kinds of permissions over time.
 
-2. Create an access key pair for the account, there's two items that result from this - the AWS Access Key ID and the AWS Secret Access Key. (No, I won't paste mine here here for you!)
+2. Create an access key pair for the account, there's two items that result from this - the AWS Access Key ID and the AWS Secret Access Key. (No, we won't paste ours here here for you!)
 
 3. Ask your AWS systems team to create an IAM group specific to the AWSMP Discovery API, and add the IAM user from step 1 into that group. Putting a user into a group and adding a policy to a group is better practice than attaching permissions or policies directly - I digress.
 
@@ -61,7 +61,7 @@ In practice what this means is:
 
 6. Quite reasonably, your AWS systems folk will want to know how to test/prove, here's a simple suggestion to use the AWS CLI.
 
-First make sure its a very recent copy of AWS CLI, since the ```marketplace-discovery``` method is only just released. I'm using ```aws-cli/2.34.30``` if that helps :-)
+First make sure its a very recent copy of AWS CLI, since the ```marketplace-discovery``` method is only just released. We're using ```aws-cli/2.34.30``` if that helps :-)
 
 Then:
 
