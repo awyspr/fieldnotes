@@ -4,7 +4,7 @@
 
 2026-04-10
 
-## What's this one all about them ?
+## What's this one all about then ?
 
 In a notable dispatch from AWSMP HQ this week, the previously limited-access [AWS Marketplace Discovery 
 API is finally public](https://docs.aws.amazon.com/marketplace/latest/APIReference/discovery-apis.html)
