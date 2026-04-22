@@ -23,7 +23,11 @@ are unlikely to be compared in the real world): I'd like to compare an apple, a 
 extreme but you can tell AgentMode to compare some very unlikely things, like a service to help AWS partners GTM, 
 a security ISV product, and an financial markets capital optimization platform:
 
-[An unlikely comparison](https://aws.amazon.com/marketplace/agentmode/#/?agent=comparison&listingIds=prodview-dfpm5amnqswn6,prodview-3xw4sjqv2pb22,prodview-vo3yo7itpfxdg)
+* [Labra Partner Development Manager (PDM) on Demand for AWS ISV Alliance](https://aws.amazon.com/marketplace/pp/prodview-dfpm5amnqswn6)
+* [Drata Security & Compliance Automation Platform](https://aws.amazon.com/marketplace/pp/prodview-3xw4sjqv2pb22)
+* [Kyriba: Your Liquidity Performance Platform](https://aws.amazon.com/marketplace/pp/prodview-vo3yo7itpfxdg)
+
+[An unlikely 3-way comparison between Labra, Drata and Kyriba](https://aws.amazon.com/marketplace/agentmode/#/?agent=comparison&listingIds=prodview-dfpm5amnqswn6,prodview-3xw4sjqv2pb22,prodview-vo3yo7itpfxdg)
 
 AgentMode tries hard to make a comparison. Probably too hard - is that sycophantic AI ? And the comparison isn't all 
 that helpful. A guardrail that did some kind of "are these even in the same broad category and therefore can be 
