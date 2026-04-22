@@ -58,7 +58,7 @@ brings the comparison together for a user:
 90 sec
 <img src="assets/after 90 sec.png" width="25%" height="25%">
 
-Whats the lesson ? Kick off your comparison and then wait 2-3 mins. G make a coffee, then collect your results. Otherwise they're probably going to be incomplete.
+Whats the lesson ? Kick off your comparison and then wait 2-3 mins. Go make a coffee, then collect your results. Otherwise they're probably going to be incomplete.
 
 The extended lesson is if you have a mix of products in your AgentMode comparison set you're likely to get faster results for the more common ones, and slower results for the lesser known ones. Be sure to wait long enough for the lesser known ones to compleete via the researcher, else you risk skewing the output towards the more common solutions.
 
@@ -66,9 +66,11 @@ The extended lesson is if you have a mix of products in your AgentMode compariso
 researcher seems to grab highly rated over highly relevant/authoritative URLs and use those to make assessments, 
 even when there is more structured detail in the marketplace entries themselves, and when the sources are potentially 
 biased (eg one vendor writing an "objective" review of products in its space and selectively comparing them against 
-itself to make a point). 
+itself to make a point). Here's two: we are comparing two GRC automation products, Drata vs Delve, and a bunch of the Delve
+evidence is coming from Sprinto (another GRC automation competitor) including their analysis of Delve vs yet another
+competitor, Vanta.
 
-EXAMPLE
+<img src="assets/.png" width="40%" height="40%"><img src="assets/.png" width="40%" height="40%">
 
 The linkages/reference embedding is not awesome either, but at least you're getting some evidence for the AgentMode's 
 conclusions (which is better than some agentic marketplaces where there's a bare recommendation of a solution with 
