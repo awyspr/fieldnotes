@@ -65,15 +65,15 @@ brings the comparison together for a user:
 90 sec
 <img src="assets/after 90 sec.png" width="25%" height="25%">
 
-We've done this a bunch of times (hundreds ...), and from those experiments our records show that
+We've done this a bunch of times (hundreds ... over several weeks), and from those experiments our records show that
 50% of AgentMode jobs finish within 2 min 40 sec (ie @p50), while 95% of AgentMode
-jobs finish within 4 min 15 sec (ie @p95). Longest wait to complete we have seen is 13 min and 51 sec (ie (@p100).
+jobs finish within 4 min 15 sec (ie @p95). Longest wait for AgentMode to complete we have seen is 13 min and 51 sec (ie (@p100).
 
-Whats the lesson ? Kick off your comparison and then wait 3-5 mins. Go make a coffee, then collect your results. 
-Otherwise they're probably going to be incomplete and if you are relying on that data for insight and purchasing decisions.
+Whats the lesson ? Kick off your comparison and then wait 3-5 mins. Go make a coffee or play with the dog, then collect your results. 
+Otherwise results are probably going to be incomplete and if you are relying on that data for insight and purchasing decisions YMMV.
 
 Additional observation is if you have a mix of products in your AgentMode comparison set you're likely to 
-get faster results for the more common ones, and slower results for the lesser known ones. Be sure to wait long 
+get faster results for the more common ones, and slower results for the lesser known ones (some kind of caching). Be sure to wait long 
 enough for the lesser known ones to complete via the researcher, else you risk skewing the volume of output towards the more 
 common solutions.
 
@@ -91,6 +91,10 @@ competitor, Vanta.
 The linkages/reference embedding is not awesome either, but at least you're getting some evidence for the AgentMode's 
 conclusions (which is better than some agentic marketplaces where there's a bare recommendation of a solution with 
 no justification or traceability).
+
+You can always add your own URLs into the mix for AgentMode requests - which makes comparison / analysis it more 
+specific but can take longer and does not necessarily resolve the confidence level in referencing. Plus you are now
+doing some of the job that AgentMode is supposed to do ...
 
 ### Sideways Glances
 
