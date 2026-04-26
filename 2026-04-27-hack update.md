@@ -13,7 +13,7 @@ Relevance (default), Most Recent Update, Newest Listing, AWS Customer Reviews.
 These are accessible via the AWS Marketplace search interface, and as parameters that can be passed into a URL-based s
 earch ("SRU"), as shown below:
 
-[IMG]
+<img src="assets/awsmp-sort-filters.png">
 
 * Relevance - no parameter required ```https://aws.amazon.com/marketplace/search/results``` 
 * Most Recent Update - set the LAST_MODIFIED_TIME-DESCENDING parameter parameter ```https://aws.amazon.com/marketplace/search/results?sort=LAST_MODIFIED_TIME-DESCENDING```
