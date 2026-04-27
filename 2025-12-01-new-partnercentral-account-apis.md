@@ -13,7 +13,7 @@ Its re:Invent season so we must have heaps of new things. AWS has just yesterday
 
 Wowza. Now we can actually do a lot more things with PartnerCentral ...
 
-### Minor heading
+### Opening the box
 
 Lets look at what we got:
 
@@ -23,8 +23,11 @@ Central, enabling partners to manage their account information, registration, pr
 and partner connections.
 ```
 
-Inital call outs:
+So what's that actually mean ?
 
+[WIP]
+
+Inital call outs:
 
 * If the Selling API is similarly scoped, thats going to be a significant step up for managing opportunities across
   both ACE and Marketplace surfaces
@@ -38,7 +41,7 @@ future where the partners that scale are driven less by human effort and adminis
 down into specific aspects of the Account API over the next few weeks as we work with partners to implement and increment
 their GTM alignment with AWS.
 
-[Back to awyspr fieldnotes index](https://awyspr.github.io/awyspr-fieldnotes)
+[Back to awyspr fieldnotes index](https://fieldnotes.awyspr.com)
 
 
 
