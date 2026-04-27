@@ -41,6 +41,9 @@ Agent analysis and advice and merge it with their own data to form richer pictur
 of the PartnerCentral environment. Since most partners hold more comprehensive pictures regarding their pipeline outside of 
 PartnerCentral, this should be a win.
 
+And you could also wire up your choice of AI business process automation or outreach intelligence tool (eg Claude) to pull data back
+from PartnerCentral Agents too. While AWS would love you to use one of their own tools, or access Anthropic or OpenAI models through Bedrock (gotta monetize PartnerCentral somehow!) its not required, the MCP server works with Claude Desktop for example, right alongside other AWS MCP servers.
+
 ## The wrap up
 
 Now they have arrived, PartnerCentral Agents won't be getting rolled back anytime soon. If they're developed a bit more (eg memory, shared context,
