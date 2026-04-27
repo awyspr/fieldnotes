@@ -9,7 +9,7 @@
 (Its been a year since much happened in the PartnerCentral API space)[https://docs.aws.amazon.com/partner-central/latest/APIReference/release-notes.html] 
 That sure feels like a long time ...
 
-But just yesterday, AWS started dropping functionality ahead of re:Invent, and one of the things we got was the (PartnerCentral Account API)[https://docs.aws.amazon.com/partner-central/latest/APIReference/API_Operations_Partner_Central_Account_API.html]
+Its re:Invent season so we must have heaps of new things. AWS has just yesterday released a heap of new APIs for PartnerCentral Account interaction - the (PartnerCentral Account API)[https://docs.aws.amazon.com/partner-central/latest/APIReference/API_Operations_Partner_Central_Account_API.html]
 
 Wowza. Now we can actually do a lot more things with PartnerCentral ...
 
@@ -41,10 +41,5 @@ their GTM alignment with AWS.
 [Back to awyspr fieldnotes index](https://awyspr.github.io/awyspr-fieldnotes)
 
 
-NEW-IN-TOWN: PartnerCentral Account API set
-https://awsapichanges.com/archive/changes/5f1773-partnercentral-account.html
-Its re:Invent so we must have heaps of new things. AWS has again released a heap of new APIs for PartnerCentral Account interaction.
 
-...
 
-We'll take a look at a few of these in more detail as we use them in anger.
