@@ -24,7 +24,7 @@
 * [2026-02-06 PRM lands with a thud](2026-02-06-prm-thud.md)
 
 ### January 2026
-ca* [2026-01-05 New Partner Central Benefits APIs](2026-01-05-new-partnercentral-benefit-apis.md)
+* [2026-01-05 New Partner Central Benefits APIs](2026-01-05-new-partnercentral-benefit-apis.md)
 
 ## 2025
 
