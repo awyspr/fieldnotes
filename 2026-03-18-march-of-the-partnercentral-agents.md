@@ -1,6 +1,6 @@
 <a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="10%" height="10%" align="left"></a>
 
-# The march of the PartnerCentral Agents
+# March of the PartnerCentral Agents
 
 2026-03-18
 
