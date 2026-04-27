@@ -70,4 +70,4 @@ What has not changed here is that there's still a potential run-around to find t
 permissions on the customer-account to be able to approve the fancy new delegation request and to coordinate that so that
 action = success.
 
-[Back to awyspr fieldnotes index](https://awyspr.github.io/awyspr-fieldnotes)
+[Back to awyspr fieldnotes index](https://fieldnotes.awyspr.com)
