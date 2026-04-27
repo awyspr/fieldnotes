@@ -8,20 +8,20 @@
 
 Its re:Invent season so we must have heaps of new things - and we got some more. AWS has just released a heap of new APIs for PartnerCentral Selling interaction - the [PartnerCentral Selling API](https://docs.aws.amazon.com/partner-central/latest/APIReference/API_Operations_Partner_Central_Selling_API.html)
 
-This will be interesting because its a bit of a cross-over into the older ACE (CRM) APIs and maybe some Marketplace stiff. Lets take a look.
+This will be interesting because its a bit of a cross-over into the older ACE (CRM) APIs and maybe some Marketplace stuff (??). Lets take a look.
 
 ### Opening the box
 
-Lets look at what we got:
+Here's what we got:
 
 ```
 Candidate 5 version of the AWS Partner Central API released. ... Enhanced Selling API engagement actions to support lead management workflow.
 ... Enhanced Selling API documentation for Engagement management with Lead context.
 ```
 
-So what's that actually mean ? We got all these methods, and we re-organized the alphabetical list into logical groups:
+And the details ? We got all these methods, re-organized the alphabetical list into logical groups:
 
-Unsurprisingly, the fundamentals for opportunities are here:
+Unsurprisingly, the fundamentals for opportunities are here, which means these can be managed outside of the older ACE CRM API context:
 * ListOpportunities
 * GetOpportunity
 * GetAwsOpportunitySummary
