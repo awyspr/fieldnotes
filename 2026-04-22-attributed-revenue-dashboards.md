@@ -51,4 +51,4 @@ PRM has been socialised with partners as being a foundation layer on which other
 entitlements, funding apportionment, partner stack-ranking, presumably other program eligibility) is based. 
 It still needs a bit of work - lets hope that the missing pieces are found before too much is built on top.
 
-[Back to awyspr fieldnotes index](https://awyspr.github.io/awyspr-fieldnotes)
+[Back to awyspr fieldnotes index](https://fieldnotes.awyspr.com)
