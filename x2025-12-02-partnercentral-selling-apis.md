@@ -6,32 +6,78 @@
 
 ## What's this one all about then ?
 
-(Its been a year since much happened in the PartnerCentral API space)[https://docs.aws.amazon.com/partner-central/latest/APIReference/release-notes.html] That feels like a long time ...
+Its re:Invent season so we must have heaps of new things - and we got some more. AWS has just released a heap of new APIs for PartnerCentral Selling interaction - the [PartnerCentral Selling API](https://docs.aws.amazon.com/partner-central/latest/APIReference/API_Operations_Partner_Central_Selling_API.html)
 
-But this week, AWS started dropping functionality ahead of re:Invent, and one of the things we got was the (PartnerCentral Channel API)[https://docs.aws.amazon.com/partner-central/latest/APIReference/API_Operations_Partner_Central_Channel_API.html]
+This will be interesting because its a bit of a cross-over into the older ACE (CRM) APIs and maybe some Marketplace stiff. Lets take a look.
 
-### Minor heading
+### Opening the box
 
-Text
+Lets look at what we got:
 
 ```
-code block
+Candidate 5 version of the AWS Partner Central API released. ... Enhanced Selling API engagement actions to support lead management workflow.
+... Enhanced Selling API documentation for Engagement management with Lead context.
 ```
 
-<img src="assets/aws-icons-resource-explorer.png" width="25%" height="25%">
+So what's that actually mean ? We got all these methods, and we re-organized the alphabetical list into logical groups:
+
+Unsurprisingly, the fundamentals for opportunities are here:
+* ListOpportunities
+* GetOpportunity
+* GetAwsOpportunitySummary
+* AssignOpportunity
+* AssociateOpportunity
+* CreateOpportunity
+* SubmitOpportunity
+* UpdateOpportunity
+* DisassociateOpportunity
+* ListOpportunityFromEngagementTasks
+* StartOpportunityFromEngagementTask
+
+A group about engagement, which is really the word AWS uses for co-sell collaboration:
+* ListEngagements
+* CreateEngagement
+* GetEngagement
+* GetEngagementInvitation
+* CreateEngagementContext
+* CreateEngagementInvitation
+* AcceptEngagementInvitation
+* RejectEngagementInvitation
+* UpdateEngagementContext
+* ListEngagementByAcceptingInvitationTasks
+* ListEngagementFromOpportunityTasks
+* ListEngagementInvitations
+* ListEngagementMembers
+* ListEngagementResourceAssociations
+* StartEngagementByAcceptingInvitationTask
+* StartEngagementFromOpportunityTask
+
+A bunch associated with resources:
+* ListResourceSnapshots
+* GetResourceSnapshot
+* CreateResourceSnapshot
+* ListResourceSnapshotJobs
+* GetResourceSnapshotJob
+* CreateResourceSnapshotJob
+* StartResourceSnapshotJob
+* StopResourceSnapshotJob
+* DeleteResourceSnapshotJob
+
+A couple of loose ends:
+* GetSellingSystemSettings
+* PutSellingSystemSettings
+
+A real loner, about solutions. (You know, we thought they might finally release an API for managing solutions, but no, not yet):
+* ListSolutions
+
+And the obligatory "tag this" method collection:
+* ListTagsForResource
+* TagResource
+* UntagResource
 
 ## The wrap up
 
-Text
+Thats quite a lot, but really focused on opportunities and engagement.
 
-[Back to awyspr fieldnotes index](https://awyspr.github.io/awyspr-fieldnotes)
-
-NEW-IN-TOWN: PartnerCentral Selling API set
-https://awsapichanges.com/archive/changes/15af35-partnercentral-selling.html
-With re:Invent just around the corner, the product/service changes are starting to come through. First one in the partner ecosystem 
-engineering is a stack of new APIs for PartnerCentral Selling interaction.
-
-...
-
-We'll take a look at a few of these in more detail as we use them in anger.
+[Back to awyspr fieldnotes index](https://fieldnotes.awyspr.com)
 
