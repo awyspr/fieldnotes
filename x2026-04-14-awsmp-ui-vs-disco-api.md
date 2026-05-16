@@ -2,7 +2,7 @@
 
 # AWSMP Discovery API - what you get and what you don't
 
-2026-04-13 
+2026-04-14 
 
 ## What's this one all about then ?
 
@@ -15,7 +15,7 @@ Lets take search first then product.
 For search, we'll put in a query, lets say "grc automation"
 
 Now lets look at the left hand menu, which is categories. Disco API allows you to get this info 
-back, or preset/navigate/select from it using https://docs.aws.amazon.com/marketplace/latest/APIReference/API_marketplace-discovery_SearchFacets.html - thats a tick. While that left hand menu content "seems" trivial to 
+back, or preset/navigate/select from it using [SearchFacets](https://docs.aws.amazon.com/marketplace/latest/APIReference/API_marketplace-discovery_SearchFacets.html) - thats a tick. While that left hand menu content "seems" trivial to 
 scrape with a one page load and a DOM parser, its generally better not to go down that path if 
 you need to work with that data when you can get it back as JSON. Assuming of course you have 
 an AWS account and a user with the right IAM permissions to call the Disco API (see our earlier post).
@@ -25,12 +25,12 @@ Counter point, in the browser, we also get an AI summary of the result set "some
 
 Here's what you're missing: 
 
-<img src="assets/ai-overview-grc-automation.png" width="25%" height="25%">
+<img src="assets/ai-overview-grc-automation.png" width="50%" height="50%">
 
 For product, we can again either select an item off the search or just pass in the prodview- ID 
 if we know what it is. Doesn't matter how we do this, so lets just pick one. https://aws.amazon.com/marketplace/pp/prodview-3xw4sjqv2pb22 will do.
 
-AWSMP Discovery API and using https://docs.aws.amazon.com/marketplace/latest/APIReference/API_marketplace-discovery_GetProduct.html and https://docs.aws.amazon.com/marketplace/latest/APIReference/API_marketplace-discovery_GetListing.html 
+AWSMP Discovery API and using [GetProduct method](https://docs.aws.amazon.com/marketplace/latest/APIReference/API_marketplace-discovery_GetProduct.html) and [GetListing method](https://docs.aws.amazon.com/marketplace/latest/APIReference/API_marketplace-discovery_GetListing.html) 
 allows us to get back most of the info that appears on the page, which is helpful because DOM 
 parsing it out from a scrape isn't that pleasant.
 
@@ -40,14 +40,14 @@ But whats missing - compared to the browsing experience - are these two pieces:
 
 You're missing this section with the Disco API: 
 
-<img src="assets/drata-comparison-products.png" width="25%" height="25%">
+<img src="assets/drata-comparison-products.png" width=50%" height="50%">
 
 * Customer Reviews - you can get the reviews metadata (eg counts, sources as a part of XXX), 
 but not the actual reviews.
 
 Here's what you're missing: 
 
-<img src="assets/drata-customer-reviews.png" width="25%" height="25%">
+<img src="assets/drata-customer-reviews.png" width="50%" height="50%">
 
 Now in all cases - the missing bits for search, its probably fair to say that most programmatic 
 interactions with AWSMP via Discovery API are not likely to be looking for the AWSMP-provided AI summary/overview
