@@ -13,6 +13,7 @@
 * [2026-04-27 Hacking the AWSMP "Most Recent Update" Results Ranking Filter](2026-04-27-hack-awsmp-most-recent-update.md)
 * [2026-04-22 Attributed Revenue Dashboards - almost completing the PRM puzzle](2026-04-22-attributed-revenue-dashboards.md)
 * [2026-04-17 Putting AgentMode under the microscope](2026-04-17-agentmode-under-the-microscope.md)
+* [2026-04-14 Whats the difference between Discovery API vs Marketplace Search UI ?](2026-04-14-awsmp-ui-vs-disco-api.md)
 * [2026-04-11 Get setup for the AWSMP Discovery API](2026-04-11-awsmp-setup-disco-api-access.md)
 * [2026-04-10 AWSMP Discovery API is now public](2026-04-10-awsmp-disco-api-public.md)
 * [2026-04-07 Here comes PRM (again)](2026-04-07-here-comes-prm-again.md)
