@@ -25,7 +25,7 @@ Counter point, in the browser, we also get an AI summary of the result set "some
 
 Here's what you're missing: 
 
-grc-automation-ai-overview.png
+<img src="assets/ai-overview-grc-automation.png" width="25%" height="25%">
 
 For product, we can again either select an item off the search or just pass in the prodview- ID 
 if we know what it is. Doesn't matter how we do this, so lets just pick one. https://aws.amazon.com/marketplace/pp/prodview-3xw4sjqv2pb22 will do.
@@ -40,14 +40,14 @@ But whats missing - compared to the browsing experience - are these two pieces:
 
 You're missing this section with the Disco API: 
 
-drata-comparison-products.png
+<img src="assets/drata-comparison-products.png" width="25%" height="25%">
 
 * Customer Reviews - you can get the reviews metadata (eg counts, sources as a part of XXX), 
 but not the actual reviews.
 
 Here's what you're missing: 
 
-drata-customer-reviews.png
+<img src="assets/drata-customer-reviews.png" width="25%" height="25%">
 
 Now in all cases - the missing bits for search, its probably fair to say that most programmatic 
 interactions with AWSMP via Discovery API are not likely to be looking for the AWSMP-provided AI summary/overview
