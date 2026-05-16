@@ -40,7 +40,7 @@ But whats missing - compared to the browsing experience - are these two pieces:
 
 You're missing this section with the Disco API: 
 
-<img src="assets/drata-product-comparison.png" width=50%" height="50%">
+<img src="assets/drata-product-comparison.png" width="50%" height="50%">
 
 * Customer Reviews - you can get the reviews metadata (eg counts, sources as a part of XXX), 
 but not the actual reviews.
