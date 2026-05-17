@@ -2,8 +2,7 @@ OFFCUTS
 
 ## 2026-05
 
-~ 15 May PartnerCentral Selling API 5 updated methods
-https://awsapichanges.com/archive/changes/994b6d-partnercentral-selling.html
+
 
 ~4 May finding the offer ID for a draft listing (aka Bhagirath call)
 
