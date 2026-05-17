@@ -1,30 +1,45 @@
 OFFCUTS
 
 ## 2026-05
-1/2 May - finding the offer ID for a draft listing (aka Bhagirath call)
+
+~ 15 May PartnerCentral Selling API 5 updated methods
+https://awsapichanges.com/archive/changes/994b6d-partnercentral-selling.html
+
+~4 May finding the offer ID for a draft listing (aka Bhagirath call)
 
 ## 2026-04
+~ 6 Apr
 https://awsapichanges.com/archive/changes/080f45-agreement-marketplace.html
+2026/03/31 - AWS Marketplace Agreement Service - 8 new api methods
+
+~ 2 Apr
+https://awsapichanges.com/archive/changes/080f45-organizations.html
+2026/03/31 - AWS Organizations - 8 updated api methods
 
 ## 2026-03
-https://awsapichanges.com/archive/changes/080f45-organizations.html
-
+~ 31 Mar
 https://awsapichanges.com/archive/changes/99ac86-partnercentral-account.html
+2026/03/30 - Partner Central Account API - 2 updated api methods
+
+~ 23 Mar - Mapping PartnerCentral Users to Managed Policies
+https://docs.aws.amazon.com/partner-central/latest/getting-started/managed-policy-mappings.html
+https://docs.aws.amazon.com/partner-central/latest/getting-started/managed-policies.html#security-iam-awsmanpol-updates
 
 
 
 NEW-IN-TOWN: Partner Central Agents/MCP compare and contrast Opportunity advice.
 Disclosure - using Hubspot as CRM. They're unsuprisingly different and so the value is somewhere in the middle, and most likely operationalized on the CRM side not in ACE. Pull the opportunity summary/recommendations through into CRM, merge/compare with local intelligence that is not synced up, and then decide what to do.
 
-
 Automation can surface signals and suggest actions, but it doesn’t solve the core problem that partnerships were designed to address in the first place: trust. Buyers still purchase through people and organisations they trust to interpret options, challenge assumptions, and advocate on their behalf. Agents can process data, but they don’t replace that trust layer. There’s also an inherent tension when the platform recommending “next steps”, funding, or incentives is the same platform selling the infrastructure. Customers aren’t naïve — they know when recommendations may be steering them toward the vendor’s preferred outcome.
 
 ## 2026-02
 
+~26/27 Feb 
 https://awsapichanges.com/archive/changes/b6a65c-partnercentral-selling.html
+2026/02/24 - Partner Central Selling API - 1 updated api methods
+
 
 HOW-TO: Using Resource Explorer vs Cost Explorer for Tagged Workloads
-
 
 HOW-TO: Mass Tagging for PRM
 PRM tagging and exposure of additional info
