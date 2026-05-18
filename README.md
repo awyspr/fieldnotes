@@ -9,6 +9,9 @@
 
 ## 2026
 
+### May 2026
+* [2026-05-15 Describing the Deal (ContractDuration support in PartnerCentral Selling API)](2026-05-15-describing-the-deal.md)
+
 ### April 2026
 * [2026-04-27 Hacking the AWSMP "Most Recent Update" Results Ranking Filter](2026-04-27-hack-awsmp-most-recent-update.md)
 * [2026-04-22 Attributed Revenue Dashboards - almost completing the PRM puzzle](2026-04-22-attributed-revenue-dashboards.md)
