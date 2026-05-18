@@ -2,7 +2,7 @@
 
 # Thinking about private marketplaces
 
-2026-05-XX
+2026-06-XX
 
 ## What's this one all about then ?
 
