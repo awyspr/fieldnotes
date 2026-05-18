@@ -50,7 +50,7 @@ There's not a lot of guidance or advice around as to whether or not syncing Mark
 is a desirable thing - but think about it like this - if you have a partner relationship or tier entitlement that is at least 
 partially driven by ACE opportunity lifecycle progression, you're going to miss out on some amount of performance attribution 
 if you have Marketplace business running and are not bringing at least some of those transactions back to the ACE side. It would
-be nice if you coul grab both private offers and agreements automatically, but for now, its just not quite possible.
+be nice if you could grab both private offers and agreements automatically, but for now, its just not quite possible.
 
 [Back to awyspr fieldnotes index](https://fieldnotes.awyspr.com)
 
