@@ -18,7 +18,7 @@ It turns out you can _almost_ do this but not quite. Why is there a gap ? Who kn
 that ACE and Marketplace teams have been historically separate.
 
 tl;dr 
-* you can kick off an ACE opportunity from a Marketplace action if "agreement" being the trigger but not 
+* you can kick off an ACE opportunity from a Marketplace action with "agreement" being the trigger but not 
 "request private offer" being the trigger.
 * with 1-step manual handling you can do the same with "private offer" as well. Automagic is just not quite strong enough.
 
