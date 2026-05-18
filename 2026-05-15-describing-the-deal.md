@@ -11,7 +11,7 @@ aspects of opportunities.
 
 ### The details
 
-Both [Stacklet](https://awsapichanges.info/archive/changes/994b6d-partnercentral-selling.html) and [TrustOnCloud](https://awsapichanges.com/archive/changes/994b6d-partnercentral-selling.html) picked this up or you can try your luck with the [actual AWS doco](https://docs.aws.amazon.com/partner-central/latest/APIReference/API_Operations_Partner_Central_Selling_API.html)
+Both [Stacklet](https://awsapichanges.info/archive/changes/994b6d-partnercentral-selling.html) and [TrustOnCloud](https://awsapichanges.com/archive/changes/994b6d-partnercentral-selling.html) picked this up or you can try your luck with the [actual AWS doco].(https://docs.aws.amazon.com/partner-central/latest/APIReference/API_Operations_Partner_Central_Selling_API.html)
 
 Specifically there's now the ability to add some additional fields to an API call which creates, queries, or updates an opportunity:
 
