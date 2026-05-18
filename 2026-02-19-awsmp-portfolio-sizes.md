@@ -123,7 +123,7 @@ These numbers are interesting enough, but consider:
 a headline public offer listing and a separate listing for private offers (even though you don't need this, and can
 enable Request Private Offer on any listing)
 - These counts are for public Marketplace entries, and its not uncommon for sellers to have limited entries 
-which are only accessible to nominated accounts or other applied constraints (LINK). We could reasonably imagine these
+which are only accessible via [Private Offer](https://docs.aws.amazon.com/marketplace/latest/buyerguide/buyer-private-offers.html) or [geographic constraints](https://aws.amazon.com/blogs/awsmarketplace/aws-marketplace-launches-geo-fencing-to-enable-sellers-to-control-availability-by-country/). We could reasonably imagine these
 totals might be boosted by 10-25% if the portfolios were even partially matched with limited entries.
 
 ## Practical implications of managing Marketplace portfolios at this size/scale
