@@ -2,7 +2,7 @@
 
 # AWSMP Catalog API Tricks
 
-2026-05-01
+2026-05-06
 
 ## What's this one all about then ?
 
