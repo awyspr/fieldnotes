@@ -29,9 +29,7 @@ Automation can surface signals and suggest actions, but it doesn’t solve the c
 
 ## 2026-02
 
-~26/27 Feb 
-https://awsapichanges.com/archive/changes/b6a65c-partnercentral-selling.html
-2026/02/24 - Partner Central Selling API - 1 updated api methods
+
 
 
 HOW-TO: Using Resource Explorer vs Cost Explorer for Tagged Workloads
