@@ -41,7 +41,8 @@ been working with.
 
 - First up (best you be sitting down, or leaning against something solid) the seller called [Next Move Strategy Consulting ](https://aws.amazon.com/marketplace/seller-profile?id=seller-juefjvns2luuk) ... drum roll ... *457* public Marketplace entries. (That is not a typo, hit the link and see for yourself. This is the biggest we have ever seen, although if you know a seller with more, please drop us a line and we'll update.) 
 
-If you look at their website ... it seems "a bit unusual" as they are not really a technology vendor but a market research firm, their LinkedIn tells a similar story (with "51-100" employees, the Marketplace listing to staff member ratio is around 4-5 listings per person ??). Regardless they have have hit the Marketplace publish button a whole heap of times to get to this point.
+If you look at their website ... it seems "a bit unusual" as they are not really a technology vendor but a market research firm, their LinkedIn tells a similar story (with "51-100" employees, the Marketplace listing to staff member ratio is around 4-5 listings per person ??). A fair number of their products
+are "free" data products - which makes more sense. Regardless they have have hit the Marketplace publish button a whole heap of times to get to this point.
 
 - [Bitnami by VMWare](https://aws.amazon.com/marketplace/seller-profile?id=dbe6480c-fd0d-4625-9bd0-44606ed33fa6)
 This seller has *292* public Marketplace entries ... We'd spotted them earlier than NMSC above, and thought close to 300 was already
