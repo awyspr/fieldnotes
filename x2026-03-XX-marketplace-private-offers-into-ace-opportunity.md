@@ -30,15 +30,41 @@ The bad news - ACE opportunities still need validation, so despite you having an
 
 No matter, lets look at the how.
 
-[WIP]
+1. Catch the [Purchase Agreement Created - Acceptor event from EventBridge](https://docs.aws.amazon.com/marketplace/latest/buyerguide/agreement-eventbridge.html). Assumes you have EventBridge setup, or you can wrangle your systems team to do the same [more info](https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-create-rule.html)
 
-[steps]
+2. Extract the Agreement ID from the payload:
+  
+```
+    "agreement": {
+      "id": "agmt-4mwg1nevbokzw95eca5797ixs",
+      "intent": "NEW",
+      "status": "ACTIVE",
+      "acceptanceTime": "2024-06-26T21:36:03Z",
+      "startTime": "2024-08-30T21:36:03Z",
+      "endTime": "2025-05-30T21:36:03Z"
+    },
+```
 
-https://docs.aws.amazon.com/marketplace/latest/buyerguide/agreement-eventbridge.html
+3. Lookup the Agreement to get additional details
 
-There's a gap ... no event emitted to trigger this on the marketplace side for a single product opportunity
+?? https://docs.aws.amazon.com/marketplace/latest/APIReference/API_marketplace-agreements_DescribeAgreement.html
 
-https://docs.aws.amazon.com/marketplace/latest/userguide/notifications-eventbridge.html#events-for-agreements
+4. Construct the ACE opportunity
+
+--- somehow in here get the extra data you need ---
+
+https://docs.aws.amazon.com/partner-central/latest/APIReference/API_CreateOpportunity.html
+
+5. Catch the ACE opportunity approval event
+
+Regularly poll the ListOpportunities API and filter the results by LifecycleStage and look for ```Prospect```.
+[More info](https://docs.aws.amazon.com/partner-central/latest/APIReference/API_ListOpportunities.html)
+
+Allegedly you can use [EventBridge for this](https://docs.aws.amazon.com/partner-central/latest/APIReference/selling-api-events.html)
+and trapping for the [Opportunity Updated details](https://docs.aws.amazon.com/partner-central/latest/APIReference/selling-api-events.html#opportunity-updated)
+
+6. Link the AWSMP Agreement to the ACE Opportunity
+
 
 ### Marketplace private offer requests to ACE oppportunities
 
