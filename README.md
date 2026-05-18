@@ -1,7 +1,8 @@
 <table>
 <tr>
 <td rowspan="2" align="center"><a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="100%" height="100%"></a></td>
-<td><b>So what's this all about then?</b> <br><br> Mostly technical fieldnotes from our work at awyspr providing AWS partner ecosystem engineering support across PartnerCentral, Marketplace etc. Occasional insights from or detours into AWS partner/alliance business management and operations. <br><br> <i>Warning! Some opinions included ...</i></td>
+<td><b>So what's this all about then?</b> <br><br> Mostly technical fieldnotes from our work at awyspr providing AWS partner ecosystem engineering support across PartnerCentral, Marketplace etc. Occasional insights from or detours into AWS partner/alliance business management and operations. <br><br> <i>Warning! Some opinions included ...</i><br>
+Attribution: All content on these pages is written by humans, not by AI.</td>
 </tr>
 </table>
 
@@ -48,7 +49,6 @@
 ### October 2025
 
 * [2025-10-23 Provisioning accounts, users, groups, permissions - an automated approach](2025-10-23-provisioning.md)
-
 ---
 
 ## Thanks for reading!
