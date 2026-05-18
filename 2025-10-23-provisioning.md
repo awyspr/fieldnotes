@@ -38,7 +38,7 @@ Assumes you have ```aws-cli``` installed and can login with the appropriate perm
 
 Run it with:
 
-``bash setup-customer-aws.sg --slug SLUG --awsacct 1234567890 --email name@customer.com --region us-east-1``
+``bash setup-customer-aws.sh --slug SLUG --awsacct 1234567890 --email name@customer.com --region us-east-1``
 
 Replace the slug, AWS account, email address and region as appropriate.
 
