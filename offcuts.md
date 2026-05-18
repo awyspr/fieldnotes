@@ -16,10 +16,6 @@ https://awsapichanges.com/archive/changes/080f45-organizations.html
 2026/03/31 - AWS Organizations - 8 updated api methods
 
 ## 2026-03
-~ 31 Mar
-https://awsapichanges.com/archive/changes/99ac86-partnercentral-account.html
-2026/03/30 - Partner Central Account API - 2 updated api methods
-
 
 
 NEW-IN-TOWN: Partner Central Agents/MCP compare and contrast Opportunity advice.
