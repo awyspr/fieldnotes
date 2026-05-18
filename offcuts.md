@@ -1,10 +1,8 @@
-OFFCUTS
+OFFCUTS & NOTES
 
 ## 2026-05
 
 
-
-~4 May finding the offer ID for a draft listing (aka Bhagirath call)
 
 ## 2026-04
 ~ 6 Apr
