@@ -45,6 +45,8 @@
 
 ### October 2025
 
+* [2025-10-23 Provisioning accounts, users, groups, permissions - an automated approach](2025-10-23-provisioning.md)
+
 ---
 
 ## Thanks for reading!
