@@ -8,7 +8,6 @@
 
 ~4 May finding the offer ID for a draft listing (aka Bhagirath call)
 
-```
 ### DUMP
 
 1) There is reference code and many many changeset examples for AWSMP available in Java and Python at:
