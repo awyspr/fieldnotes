@@ -57,6 +57,8 @@ Link Solutions to Opportunities
 
 Iterate Solutions to Link Products/Services to Opportunities using Template
 
+- It would be amazing if you could attach AWS Services to Solutions and then inherit them down to Opportunities which are linked to that Solution. Currently you can't do this, if you want to connect AWS Services to Opportunities you have to do it directly, and at scale the way you do this is to write a query that essentially says "for solution X here is a map of the attached/impacted AWS Services, now go and find all the Opportunities that are connected to that Solution, and then for each of those Opportunities, attach/link the AWS Services that are included in the map". If you use a 3PI, this is logic that they build-maintain, if you don't use a 3PI for CRM you can't do anything with it but flag it for the partner seller that it needs to be added manually (and so it never happens). There will always be the case that for a specific Opportunity there might be non-standard Services attached if its a Solution with a few tweaks around the edges, but currently its a first order problem which is needing to double handle. Whats the ask ? Make it possible to connect AWS Services to a Solution via API, nd then make it possible to inherit that relationship onto the Opportunity.
+
 
 MISSING IN ACTION - Can't attach AWS Products/Services to Solutions, only from Solutions to Opps (no inheritance) - (Timothy/Tom)
 
