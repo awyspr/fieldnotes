@@ -51,6 +51,9 @@ ridiculous but understanding their business model with OSS AMIs at the core, it 
 - [ProComputers](https://aws.amazon.com/marketplace/seller-profile?id=cb14f0b8-1ca0-4485-bc79-a2cb2b9a4feb)
 This seller has *288* public Marketplace entries. Similar approach to Bitnami.
 
+- [rearc](https://aws.amazon.com/marketplace/seller-profile?id=a8a86da2-b2d1-4fae-992d-03494e90590b)
+This seller has 206 public Marketplace entries, dominated by data sets (eg ADX).
+
 ### The Not-Quite-So-Big Guns
 
 - [kCloudHubs LLC](https://aws.amazon.com/marketplace/seller-profile?id=seller-kuxjetipx54va)
@@ -112,6 +115,7 @@ some confidence in).
 2. Technology companies that are in the business of shipping images based around open source software are also quite prevalent.
 3. Bigger portfolios are mostly bundles of product and service (not claiming "multi-product solutions", but rather a solution which
 has both technology product and human effort involved in delivery)
+4. There are specialist data set publishers (via Data Exchange) that have larger portfolios of different data sets.
 
 Its completely possible that there are other examples of sellers with even larger portfolios
 of listings; or its possible (but unlikely) we've just stumbled across the biggest, and our original view
