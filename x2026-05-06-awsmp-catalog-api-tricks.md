@@ -8,7 +8,7 @@
 
 ~4 May finding the offer ID for a draft listing (aka Bhagirath call)
 
-
+```
 ### DUMP
 
 1) There is reference code and many many changeset examples for AWSMP available in Java and Python at:
@@ -85,7 +85,6 @@ If that comes back empty after you created the dimensions either via API or UI, 
 
 Try these two working CLI wraps to simplify things. 1st one calls back the entities in an authenticated AWSMP publisher account, 2nd one uses one of those EntityIds to get extra detail. These are private offers for a proserv wrap, but I can make the same work for public and drafts, and for SaaS too.
 
-```
 MMM1-BADENH:~ badenh$ aws marketplace-catalog list-entities --region us-east-1 --catalog AWSMarketplace --entity-type Offer
 {
     "EntitySummaryList": [
@@ -208,13 +207,6 @@ Then I'd add the entity ID filter over the top (ie get the biggest response payl
 What I do know - if you can't make the simple call work right on the CLI which directly invokes the API(s), then embedding it in boto3 etc doesn't help.
 
 
-Text
-
-```
-code block
-```
-
-<img src="assets/aws-icons-resource-explorer.png" width="25%" height="25%">
 
 ## The wrap up
 
