@@ -1,8 +1,9 @@
 OFFCUTS & NOTES
 
+## 2026-06
+~ 5 May https://aws.amazon.com/blogs/awsmarketplace/deploy-aws-marketplace-spg-dashboard-unified-insights/
+
 ## 2026-05
-
-
 
 ## 2026-04
 ~ 6 Apr
