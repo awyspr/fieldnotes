@@ -47,8 +47,8 @@ Gotcha: the thing called SupportTerm in AWSMP is actually the refund policy. If 
 
 #4B update support description via UpdateInformation
 
-````OFFER_ID="offer-xxxxxxxxxxxxx"
-aws marketplace-catalog start-change-set \ --region us-east-1 \ --catalog AWSMarketplace \ --change-set "$(cat <<JSON [ {{ "ChangeType": "UpdateInformation","Entity": { "Type": "SaaSProduct@1.0", "Identifier": "prod-xxx" } "DetailsDocument": { "SupportDescription": "24x7 at support@company.com..." } } ] } } ] JSON )"``
+OFFER_ID="offer-xxxxxxxxxxxxx"
+aws marketplace-catalog start-change-set \ --region us-east-1 \ --catalog AWSMarketplace \ --change-set "$(cat <<JSON [ {{ "ChangeType": "UpdateInformation","Entity": { "Type": "SaaSProduct@1.0", "Identifier": "prod-xxx" } "DetailsDocument": { "SupportDescription": "24x7 at support@company.com..." } } ] } } ] JSON )" ```
 
 #4C update legal terms
 
