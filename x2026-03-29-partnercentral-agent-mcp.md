@@ -2,11 +2,11 @@
 
 # partnercentral-agent-mcp
 
-2026-03-XX
+2026-03-29
 
 ## What's this one all about then ?
 
-Text
+So 2 weeks ago AWS released Agents in PartnerCEntral, including MCP support (allowing external tools to call ...)
 
 NEW-IN-TOWN: Partner Central Agents/MCP compare and contrast Opportunity advice.
 Disclosure - using Hubspot as CRM. They're unsuprisingly different and so the value is somewhere in the middle, and most likely operationalized on the CRM side not in ACE. Pull the opportunity summary/recommendations through into CRM, merge/compare with local intelligence that is not synced up, and then decide what to do.
