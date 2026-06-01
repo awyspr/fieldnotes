@@ -1,6 +1,21 @@
 OFFCUTS & NOTES
 
 ## 2026-06
+
+~ 2 Jun behold the missing resource tags https://awsapichanges.com/archive/changes/e7ba6b-tagging.html
+ The GetResources API now returns MissingTagKeys in ComplianceDetails, listing tag keys defined as required in the ReportRequiredTagBlock block of the effective tag policy that are absent from the resource.
+ Returns all the tagged or previously tagged resources that are located in the specified Amazon Web Services Region for the account.
+
+Depending on what information you want returned, you can also specify the following:
+
+Filters that specify what tags and resource types you want returned. The response includes all tags that are associated with the requested resources.
+
+Information about compliance with the account's effective tag policy.
+
+It has been painful to find resources that have had tags removed (previously tagged) since you needed to make a list and maintain it.
+
+Yay!
+
 ~ 1 Jun creating budgets via API https://docs.aws.amazon.com/aws-cost-management/latest/APIReference/API_budgets_CreateBudget.html
 
 ~ 5 May https://aws.amazon.com/blogs/awsmarketplace/deploy-aws-marketplace-spg-dashboard-unified-insights/
