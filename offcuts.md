@@ -18,9 +18,9 @@ Yay!
 
 ~ 1 Jun creating budgets via API https://docs.aws.amazon.com/aws-cost-management/latest/APIReference/API_budgets_CreateBudget.html
 
-~ 5 May https://aws.amazon.com/blogs/awsmarketplace/deploy-aws-marketplace-spg-dashboard-unified-insights/
-
 ## 2026-05
+
+~ 5 May https://aws.amazon.com/blogs/awsmarketplace/deploy-aws-marketplace-spg-dashboard-unified-insights/
 
 ## 2026-04
 ~ 6 Apr
