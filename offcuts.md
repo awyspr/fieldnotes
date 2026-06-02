@@ -1,6 +1,6 @@
 OFFCUTS & NOTES
 
-## 2026-06
+## 2026-06 Running
 
 
 ## 2026-05
@@ -12,13 +12,14 @@ OFFCUTS & NOTES
 https://awsapichanges.com/archive/changes/080f45-agreement-marketplace.html
 2026/03/31 - AWS Marketplace Agreement Service - 8 new api methods
 
+# Earlier
+
 ## 2026-02
 
 HOW-TO: Using Resource Explorer vs Cost Explorer for Tagged Workloads
 
 HOW-TO: Mass Tagging for PRM
 PRM tagging and exposure of additional info
-
 
 ## 2026-01
 
