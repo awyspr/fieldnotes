@@ -40,6 +40,7 @@ Attribution: All content on these pages is written by humans, not by AI.</td>
 * [2026-02-06 PRM lands with a thud](2026-02-06-prm-thud.md)
 
 ### January 2026
+* [2026-01-19 Workload cost estimates from CloudFormation](2026-01-19-workload-cost-estimates-from-cloudformation.md)
 * [2026-01-16 ACE deal sizing from estimates (with and without AI)](2026-01-16-ace-deal-sizing-from-estimates.md)
 * [2026-01-05 New PartnerCentral Benefits APIs](2026-01-05-new-partnercentral-benefit-apis.md)
 
