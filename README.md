@@ -29,6 +29,7 @@ Attribution: All content on these pages is written by humans, not by AI.</td>
 
 ### March 2026
 * [2026-03-31 Kickstarting KYC via API](2026-03-31-kickstarting-kyc-via-api.md)
+* [2026-03-29 PartnerCentral Agents in your CRM via MCP](2026-03-29-partnercentral-agent-mcp.md)
 * [2026-03-27 PartnerCentral Agents prompt hacking with personas](2026-03-27-partnercentral-agents-prompt-hacking.md)
 * [2026-03-26 Better PartnerCentral Users and Managed Policies](2026-03-26-better-partnercentral-users-managed-policies.md)
 * [2026-03-18 March of the PartnerCentral Agents](2026-03-18-march-of-the-partnercentral-agents.md)
