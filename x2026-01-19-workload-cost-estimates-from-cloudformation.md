@@ -1,6 +1,6 @@
 <a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="10%" height="10%" align="left"></a>
 
-# estimates from cloudformation
+# Workload cost estimates from CloudFormation
 
 2026-01-19
 
