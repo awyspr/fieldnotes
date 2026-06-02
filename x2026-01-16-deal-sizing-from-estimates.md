@@ -86,7 +86,8 @@ Our take aways from this:
 - Reinforces the practice of ACE opportunities being (extensively) tagged with service selections. We wrote about this earlier ...
 
 ### Mysteries
-
+- What kinds of input and algorithm are used by AI to estimate/suggest the MRR ? We'll probably never know, but what we can say is that certain
+things seem to have impacts, and also that AI can be a bit mislead in both the historical ACE opportunity case and the pricing estimator case
 - How is partner provided MRR going to sit alongside AI-suggested MRR in internal AWS seller systems ? Its a logical thing to do,
 and AWS internal systems already have various weightings and scorecards applied to partner opportunities to support resource allocation and
 stack ranking.
@@ -96,5 +97,6 @@ stack ranking.
 A lot of vendors have introduced AI opportunity sizing support, but few with as diverse a portfolio as AWS, let alone a portfolio
 that mixes products and services, and a marketplace.
 
+tbc
 
 [Back to awyspr fieldnotes index](https://fieldnotes.awyspr.com)
