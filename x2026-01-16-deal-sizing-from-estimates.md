@@ -24,7 +24,27 @@ So of course, we took a look.
 
 ### AI analysis of MRR sizing on ACE opportunities
 
-tbc
+Scenario 1: We edited an existing ACE opportunity which had an arbitrary MRR (it was a professional services 
+opportunity, where MRR is extremely rubbery) and no service selections. Our suggested MRR for this opportunity was $480. 
+
+Somehow, AI decided that $372 was more appropriate. Given there was no service selections and it was pro serv, 
+this seems pretty random.
+
+So we tried it with a new ACE opportunity with the same title/description/customer/solution and arbitrary MRR $500.
+Somehow, AI decided this one should have been $480.
+
+Wierd.
+
+Scenario 2: Again we edited an existing ACE opportunity with an educated MRR (it was a bundled proserv + infra
+opportunity, with service selections. There were similar ACE opportunities already closed lost and launched,
+all linked to the same solution
+
+The MRR was $750. AI decided that $926 was more appropriate. 
+
+Comparatively, the average MRR of closed lost and launched opportunities for scenario 2 was $750. So somehow,
+AI decded that this one should be bigger. The only factor we can put it down to is perhaps something from
+the customer's profile which influences the upgrade.
+
 
 ### Importing Pricing Calculator URLs
 
