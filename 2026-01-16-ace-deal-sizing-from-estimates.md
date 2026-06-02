@@ -38,17 +38,17 @@ Somehow, AI decided this one should have been $480.
 Wierd.
 
 Scenario 2: Again we edited an existing ACE opportunity with an educated MRR (it was a bundled proserv + infra
-opportunity, with service selections. There were similar ACE opportunities already closed lost and launched,
-all linked to the same solution
+opportunity, with service selections). There were similar ACE opportunities already closed lost and launched,
+all linked to the same solution.
 
 The MRR was $750. AI decided that $926 was more appropriate. 
 
 Comparatively, the average MRR of closed lost and launched opportunities for scenario 2 was $725. So somehow,
-AI decied that this one should be bigger. The only factor we can put it down to is perhaps something from
+AI decided that this one should be bigger. The only factor we can put it down to is perhaps something from
 the customer's profile which influences the upgrade.
 
 Scenario 3: We created a "moderately well described" ACE opportunity with a $1 MRR. 
-AI decided that $230 was more appropriate.
+This time AI decided that $230 was more appropriate. That's quite an upsell ...
 
 Scenario 4: We created a "moderately well described" ACE opportunity for software sale via AWSMP, and gave it an 
 MRR based on 100 users x the vendor's public AWSMP pricing of $35 per user per month - so MRR $3,500.
