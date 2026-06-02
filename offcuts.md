@@ -12,12 +12,6 @@ OFFCUTS & NOTES
 https://awsapichanges.com/archive/changes/080f45-agreement-marketplace.html
 2026/03/31 - AWS Marketplace Agreement Service - 8 new api methods
 
-~ 2 Apr
-https://awsapichanges.com/archive/changes/080f45-organizations.html
-2026/03/31 - AWS Organizations - 8 updated api methods
-
-## 2026-03
-
 ## 2026-02
 
 HOW-TO: Using Resource Explorer vs Cost Explorer for Tagged Workloads
