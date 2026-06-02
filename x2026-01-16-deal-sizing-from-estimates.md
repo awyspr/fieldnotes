@@ -24,6 +24,8 @@ So of course, we took a look.
 
 ### AI suggested MRR
 
+First of all, we just looked at the AI suggested MRR based on the opportunity.
+
 Scenario 1: We edited an existing ACE opportunity which had an arbitrary MRR (it was a professional services 
 opportunity, where MRR is extremely rubbery) and no service selections. Our suggested MRR for this opportunity was $480. 
 
@@ -52,7 +54,7 @@ Scenario 4: We created a "moderately well described" ACE opportunity for softwar
 MRR based on 100 users x the vendor's public AWSMP pricing of $35 per user per month - so MRR $3,500.
 
 AI decided that it should be $22,800. Yes, thats right, about 8x larger. We think it picked the enterprise license
-which is advertised at $20,000 as the base.
+which is advertised on AWSMP public pricing at $25,000 as the base and somehow discounted it.
 
 Our take aways from this:
 - x
@@ -61,16 +63,28 @@ Our take aways from this:
 
 ### Importing Pricing Calculator URLs
 
-tbc
+Next, we used the pricing calculator import
+
+Scenario 1: a moderately well specified calculator against a well defined solution with linked services - completing most options to completely define a classic 3 tiered web data ingest and analyse application (Amplify, RDS, S3, Glue, Athena, EC2 Fargate, Lambda, Quicksight). The pricing calculator came in at MRR $183, and we imported it into the ACE opportunity.
+
+AI-adjusted it was recommended to be MRR $192. That's pretty close although given that it was well specified, its not clear where the 2-3% bump came from.
+
+Scenario 2: a sparsely specified calculator vs a well defined solution with linked services - a bare bones S3, EC2, RDS. The pricing calculator came in at MRR $53, and we imported it into the ACE opportunity.
+
+AI-adjusted it was recommended to be MRR $134. That wasn't what we expected, we thought AI would bump the number up, realising that the solution specification was larger - not least we had selected a few services for the opportunity that were not represented in the pricing calculator.
 
 Our take aways from this:
-- x
+- Even w
 - y
 - z
 
 ### Learnings, better practices reinforced
 
 - Reinforces the practice of ACE opportunities being (extensively) tagged with service selections. We wrote about this earlier ...
+
+### Mysteries
+
+- 
   
 ## The wrap up
 
