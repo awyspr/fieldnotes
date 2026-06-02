@@ -7,13 +7,20 @@
 ## What's this one all about then ?
 
 Our recent fieldnote about deal sizing from estimates jogged our memory about an old feature which is worth revisiting: generating
-estimates from cloudformation workload definitions.
+estimates from CloudFormation workload definitions.
+
+This was the hook:
+
+``"Partners can optionally import AWS Pricing Calculator URLs to automatically populate AWS service selections
+and corresponding spend estimates into their opportunities, reducing the need for manual re-entry.``
+
+### Workload cost estimates from CloudFormation
+
+This is actually a fairly old CLI/API, but its a goodie.
 
 HOW-TO: Create Workload Cost Estimates from CloudFormation
 https://docs.aws.amazon.com/cli/latest/reference/cloudformation/estimate-template-cost.html
 
-
-### Minor heading
 
 Text
 
