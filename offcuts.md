@@ -2,26 +2,14 @@
 
 ## 2026-06 Running
 
-# Older
-
-## 2026-02
+## 2026-02 Older
 
 HOW-TO: Using Resource Explorer vs Cost Explorer for Tagged Workloads
 
 HOW-TO: Mass Tagging for PRM
 PRM tagging and exposure of additional info
 
-## 2026-01
-
-MISSING-IN-ACTION: Can't import CloudFormation-based Workload Cost Estimates from calculator.aws into PartnerCentral "Estimator"
-
-HOW-TO: Port Old Estimate to New Estimate
-
-HOW-TO: Create Workload Cost Estimates from CloudFormation
-https://docs.aws.amazon.com/cli/latest/reference/cloudformation/estimate-template-cost.html
-
-
-## 2025 ...
+## 2025 Even Older ...
 
 HOW-TO: Service-link ACE Opps with Solution Support
 As we reported earlier, you can't attach AWS products/Services to Solutions, nor inherit Products/Services from a Solution onto an Opportunity. So instead, you have to do a two-stepper. Here's one way to achieve the goal without resorting to manual UI click-errors, or needing a 3PI to fill the gap.
