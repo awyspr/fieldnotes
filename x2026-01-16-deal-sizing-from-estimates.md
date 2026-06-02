@@ -22,9 +22,13 @@ strengthen funding applications, accelerating the funding approval process.`
 
 So of course, we took a look.
 
-### 
+### AI analysis of MRR sizing on ACE opportunities
+
+tbc
 
 ### Importing Pricing Calculator URLs
+
+tbc
 
 ### Things that are not obvious
 
