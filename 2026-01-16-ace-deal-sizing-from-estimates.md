@@ -1,6 +1,6 @@
 <a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="10%" height="10%" align="left"></a>
 
-# deal sizing from estimates
+# ACE deal sizing from estimates (with and without AI)
 
 2026-01-16
 
@@ -66,37 +66,40 @@ the MRR on an ACE opportunity is 'maleable', at least you know what went into th
 
 ### Importing Pricing Calculator URLs
 
-Next, we used the pricing calculator import
+Next, we used the pricing calculator import.
 
 Scenario 1: a moderately well specified calculator against a well defined solution with linked services - completing most options to completely define a classic 3 tiered web data ingest and analyse application (Amplify, RDS, S3, Glue, Athena, EC2 Fargate, Lambda, Quicksight). The pricing calculator came in at MRR $183, and we imported it into the ACE opportunity.
 
 AI-adjusted it was recommended to be MRR $192. That's pretty close although given that it was well specified, its not clear where the 2-3% bump came from.
 
-Scenario 2: a sparsely specified calculator vs a well defined solution with linked services - a bare bones S3, EC2, RDS. The pricing calculator came in at MRR $53, and we imported it into the ACE opportunity.
+Scenario 2: a sparsely specified calculator vs a well defined solution with linked services - a bare bones S3, EC2, RDS. The pricing calculator came in at MRR $94, and we imported it into the ACE opportunity.
 
-AI-adjusted it was recommended to be MRR $134. That wasn't what we expected, we thought AI would bump the number up, realising that the solution specification was larger - not least we had selected a few services for the opportunity that were not represented in the pricing calculator.
+AI-adjusted it was recommended to be MRR $53. That wasn't what we expected, we thought AI would bump the number up, realising that the solution specification was larger - not least we had selected a few services for the opportunity that were not represented in the pricing calculator.
 
 Our take aways from this:
-- Even w
-- y
-- z
-
-### Learnings, better practices reinforced
-
-- Reinforces the practice of ACE opportunities being (extensively) tagged with service selections. We wrote about this earlier ...
+- When a pricing calculator is used, the AI suggested MRR is "adjusted" and not always in the way we would expect.
+- Even when a well specified pricing calculator is used, for some reason the AI feels compelled to make an adjustment
 
 ### Mysteries
+There are still more than a few mysteries:
+
 - What kinds of input and algorithm are used by AI to estimate/suggest the MRR ? We'll probably never know, but what we can say is that certain
 things seem to have impacts, and also that AI can be a bit mislead in both the historical ACE opportunity case and the pricing estimator case
 - How is partner provided MRR going to sit alongside AI-suggested MRR in internal AWS seller systems ? Its a logical thing to do,
 and AWS internal systems already have various weightings and scorecards applied to partner opportunities to support resource allocation and
 stack ranking.
-  
+
+### Learnings, better practices reinforced
+There are some important reminders from the availability of this new feature:
+
+- Reinforces the practice of ACE opportunities being (extensively) tagged with service selections, which potentially now inform AI suggested MRR calculations.
+- Reminds us that pricing calculators should be used wherever possible in association with an opportunity. Its easy to slip out of that habit, because
+adding in a random MRR is easier than using the price calculator, especially early on.
+
 ## The wrap up
 
-A lot of vendors have introduced AI opportunity sizing support, but few with as diverse a portfolio as AWS, let alone a portfolio
-that mixes products and services, and a marketplace.
-
-tbc
+A lot of vendors have introduced AI opportunity sizing support, but in our experience few with as diverse a portfolio as AWS, let alone a portfolio
+that mixes products and services, and a marketplace. Its quite a challenge, but on the other hand it does align with the emerging AWS perspective
+if not priority to be more focused and disciplined about MRR and the commercial impact that partners have overall.
 
 [Back to awyspr fieldnotes index](https://fieldnotes.awyspr.com)
