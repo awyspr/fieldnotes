@@ -25,6 +25,7 @@ Attribution: All content on these pages is written by humans, not by AI.</td>
 * [2026-04-11 Get setup for the AWSMP Discovery API](2026-04-11-awsmp-setup-disco-api-access.md)
 * [2026-04-10 AWSMP Discovery API is now public](2026-04-10-awsmp-disco-api-public.md)
 * [2026-04-07 Here comes PRM (again)](2026-04-07-here-comes-prm-again.md)
+* [2026-04-02 Pathfinding updates for Organizations API](2026-04-02-pathfinding-updates-organization-api-methods.md)
 
 ### March 2026
 * [2026-03-31 Kickstarting KYC via API](2026-03-31-kickstarting-kyc-via-api.md)
