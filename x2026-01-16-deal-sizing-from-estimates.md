@@ -48,6 +48,12 @@ the customer's profile which influences the upgrade.
 Scenario 3: We created a "moderately well described" ACE opportunity with a $1 MRR. 
 AI decided that $230 was more appropriate.
 
+Scenario 4: We created a "moderately well described" ACE opportunity for software sale via AWSMP, and gave it an 
+MRR based on 100 users x the vendor's public AWSMP pricing of $35 per user per month - so MRR $3,500.
+
+AI decided that it should be $22,800. Yes, thats right, about 8x larger. We think it picked the enterprise license
+which is advertised at $20,000 as the base.
+
 Our take aways from this:
 - x
 - y
