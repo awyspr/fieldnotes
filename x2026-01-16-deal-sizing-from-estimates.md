@@ -22,9 +22,9 @@ strengthen funding applications, accelerating the funding approval process.`
 
 So of course, we took a look.
 
-### AI suggested MRR
+### AI-suggested MRR
 
-First of all, we just looked at the AI suggested MRR based on the opportunity.
+First of all, we just looked at the AI-suggested MRR based on the opportunity.
 
 Scenario 1: We edited an existing ACE opportunity which had an arbitrary MRR (it was a professional services 
 opportunity, where MRR is extremely rubbery) and no service selections. Our suggested MRR for this opportunity was $480. 
@@ -43,8 +43,8 @@ all linked to the same solution
 
 The MRR was $750. AI decided that $926 was more appropriate. 
 
-Comparatively, the average MRR of closed lost and launched opportunities for scenario 2 was $750. So somehow,
-AI decded that this one should be bigger. The only factor we can put it down to is perhaps something from
+Comparatively, the average MRR of closed lost and launched opportunities for scenario 2 was $725. So somehow,
+AI decied that this one should be bigger. The only factor we can put it down to is perhaps something from
 the customer's profile which influences the upgrade.
 
 Scenario 3: We created a "moderately well described" ACE opportunity with a $1 MRR. 
@@ -57,9 +57,12 @@ AI decided that it should be $22,800. Yes, thats right, about 8x larger. We thin
 which is advertised on AWSMP public pricing at $25,000 as the base and somehow discounted it.
 
 Our take aways from this:
-- x
-- y
-- z
+- The AI-suggested MRR ranges from reasonable to something which is very unreasonable.
+- It appears that the AI MRR suggesting mechanism is influenced by a range of factors, including the partner's similar
+opportunities, the customer's opportunity history, scale indicators in the description of the opportunity, the service
+selection mix, and AWSMP public pricing.
+- Compare your own hand-developed MRRs against AI, but don't ever take the lazy default of accepting its recommendation. If 
+the MRR on an ACE opportunity is 'maleable', at least you know what went into that, with AI, you have no idea of the provenance.
 
 ### Importing Pricing Calculator URLs
 
@@ -84,10 +87,14 @@ Our take aways from this:
 
 ### Mysteries
 
-- 
+- How is partner provided MRR going to sit alongside AI-suggested MRR in internal AWS seller systems ? Its a logical thing to do,
+and AWS internal systems already have various weightings and scorecards applied to partner opportunities to support resource allocation and
+stack ranking.
   
 ## The wrap up
 
-Text
+A lot of vendors have introduced AI opportunity sizing support, but few with as diverse a portfolio as AWS, let alone a portfolio
+that mixes products and services, and a marketplace.
+
 
 [Back to awyspr fieldnotes index](https://fieldnotes.awyspr.com)
