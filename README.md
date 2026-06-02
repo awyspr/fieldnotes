@@ -10,6 +10,9 @@ Attribution: All content on these pages is written by humans, not by AI.</td>
 
 ## 2026
 
+### June 2026
+* [2026-06-02 Finding missing resource tags](2026-06-02-finding-missing-resource-tags.md)
+
 ### May 2026
 * [2026-05-15 Describing the deal (ContractDuration support in PartnerCentral Selling API)](2026-05-15-describing-the-deal.md)
 * [2026-05-01 Mostly empty PRM dashboards](2026-05-01-mostly-empty-prm-dashboards.md)
