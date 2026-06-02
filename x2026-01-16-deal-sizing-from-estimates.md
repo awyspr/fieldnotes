@@ -22,7 +22,7 @@ strengthen funding applications, accelerating the funding approval process.`
 
 So of course, we took a look.
 
-### AI analysis of MRR sizing on ACE opportunities
+### AI suggested MRR
 
 Scenario 1: We edited an existing ACE opportunity which had an arbitrary MRR (it was a professional services 
 opportunity, where MRR is extremely rubbery) and no service selections. Our suggested MRR for this opportunity was $480. 
@@ -45,14 +45,24 @@ Comparatively, the average MRR of closed lost and launched opportunities for sce
 AI decded that this one should be bigger. The only factor we can put it down to is perhaps something from
 the customer's profile which influences the upgrade.
 
+Scenario 3: We created a "moderately well described" ACE opportunity with a $1 MRR. 
+AI decided that $230 was more appropriate.
+
+Our take aways from this:
+- x
+- y
+- z
 
 ### Importing Pricing Calculator URLs
 
 tbc
 
-### Things that are not obvious
+Our take aways from this:
+- x
+- y
+- z
 
-- How did AI work out that our $500 MRR opportunity should have been downsized to $378 ?
+### Learnings, better practices reinforced
 
 - Reinforces the practice of ACE opportunities being (extensively) tagged with service selections. We wrote about this earlier ...
   
