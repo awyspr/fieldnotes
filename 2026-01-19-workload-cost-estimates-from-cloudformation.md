@@ -22,7 +22,7 @@ Essentially, if you have a CloudFormation definition of your workload, you can u
 the workload cost estimator. [The details](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/estimate-template-cost.html) 
 are tucked away in a place many alliance people will not know exists :-(
 
-A worked example: if we have a Cloudformation yaml file like this (if you don't speak CloudFormation, scroll down to see the results!):
+A worked example: if we have a Cloudformation yaml file like this (save it as `devinfrasingle.yaml`; if you don't speak CloudFormation, scroll down to see the results!):
 
 ```
 AWSTemplateFormatVersion: '2010-09-09'
