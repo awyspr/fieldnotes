@@ -45,7 +45,7 @@ aws cloudformation estimate-template-cost \
 
 And we get back [a result like this](https://calculator.aws/#/estimate?id=cloudformation/b317e025032ca5e4fb755c4d989429443126e2fb)
 
-IMG HERE
+<img src="assets/estimator.png" width="25%" height="25%">
 
 ### Gotchas
 
