@@ -2,6 +2,12 @@
 
 ## 2026-06 Running
 
+17/Jun Agentic RTS for AWSMP
+https://aws.amazon.com/blogs/apn/get-ready-to-sell/
+
+17/Jun NY Summit Storefronts
+https://aws.amazon.com/marketplace/partners/storefront
+
 13/Jun
 no cancel funding in PC UI, how to do it with API instead
 
