@@ -33,11 +33,15 @@ First up we need to work out the Benefit Application metadata.
 You can do this in the PartnerCentral UI if you like, but since you can't do anything
 with that information, its probably more sensible to work with the API.
 
+https://docs.aws.amazon.com/partner-central/latest/APIReference/API_benefits_ListBenefitApplications.html
+
 Using the AWS CLI:
 
 TBC
 
 ### Cancelling
+
+https://docs.aws.amazon.com/partner-central/latest/APIReference/API_benefits_CancelBenefitApplication.html
 
 So now we are serious, we can cancel the application. Using the AWS CLI:
 
@@ -62,22 +66,18 @@ Be very clear - **this is not reversible**. Once an appliction is cancelled, it 
 again from the top with a new application.
 
 
-no cancel funding in PC UI, how to do it with API instead
+As a bonus though, you can recall a benefit application via the API as well:
 
-As a bonus though, you can reset
-
-
-
-Text
-
-```
-code block
-```
-
-<img src="assets/aws-icons-resource-explorer.png" width="25%" height="25%">
+https://docs.aws.amazon.com/partner-central/latest/APIReference/API_benefits_RecallBenefitApplication.html
 
 ## The wrap up
 
-Text
+Its unfortunate that sometimes AWS partner facing tools go through changes which remove previously available
+functionality, and cause a bit of stress when processes built around them break. In this case, the UI certainly
+changed but as is more and more the case with AWS partnerships, if you are programmatically inclined or integrated,
+you can use more technical tools to achieve not only the original objective but sometimes even things that were
+not available earlier. Benefits Cancellation is just one of them.
+
+
 
 [Back to awyspr fieldnotes index](https://fieldnotes.awyspr.com)
