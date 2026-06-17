@@ -10,6 +10,7 @@ https://aws.amazon.com/marketplace/partners/storefront
 
 16/Jun 
 https://awsapichanges.com/archive/changes/e078c6-partnercentral-selling.html
+Added Prospecting APIs to convert engagements into AI-enriched leads with scoring insights. Extended Engagement APIs with ProspectingResult and Lead contexts. Added CoSell Scoring to GetAwsOpportunitySummary- quality score, trend, agent-driven recommendations, and engagement classification.
 
 
 ## 2026-02 Older
