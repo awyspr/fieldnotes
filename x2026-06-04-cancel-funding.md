@@ -1,6 +1,6 @@
 <a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="10%" height="10%" align="left"></a>
 
-# cancel-funding has been cancelled (or has it) ?
+# Ability to cancel funding has been itself been cancelled (or has it) ?
 
 2026-06-04
 
