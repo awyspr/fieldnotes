@@ -45,14 +45,15 @@ https://docs.aws.amazon.com/partner-central/latest/APIReference/API_benefits_Can
 
 So now we are serious, we can cancel the application. Using the AWS CLI:
 
-``aws partnercentral-benefits cancel-benefit-application \
---catalog "" \
---client-token "" \
+```
+aws partnercentral-benefits cancel-benefit-application \
+--catalog "aws" \
+--client-token "XXXXXX" \
 --identifier "benappl-XXXXXXXXXX" \
 --reason "customer cancelled engagement"
-``
+```
 
-As usual, `catalog` means . 
+As usual, `catalog` means `aws` unless you're using GovCloud or European Sovereign Cloud.
 
 The `client-token` is a user-supplied token which is used to guarantee idempotency. You can use
 whatever you like, but better practice would be to reference a CRM case/activity etc and add a date-timestamp.
@@ -65,8 +66,11 @@ The `reason` is optional, but encouraged - some text which describes why you are
 Be very clear - **this is not reversible**. Once an appliction is cancelled, it cannot be reactivated and you must start
 again from the top with a new application.
 
+### Not Cancelling, Just Recalling
+As a bonus though, you can recall a benefit application via the API as well.
 
-As a bonus though, you can recall a benefit application via the API as well:
+Recalling puts the application in draft. You can't recall an application that has progressed past 
+
 
 https://docs.aws.amazon.com/partner-central/latest/APIReference/API_benefits_RecallBenefitApplication.html
 
