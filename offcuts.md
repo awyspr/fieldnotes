@@ -8,6 +8,9 @@ https://aws.amazon.com/blogs/apn/get-ready-to-sell/
 17/Jun NY Summit Storefronts
 https://aws.amazon.com/marketplace/partners/storefront
 
+16/Jun 
+https://awsapichanges.com/archive/changes/e078c6-partnercentral-selling.html
+
 13/Jun
 no cancel funding in PC UI, how to do it with API instead
 
