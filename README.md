@@ -11,6 +11,7 @@ Attribution: All content on these pages is written by humans, not by AI.</td>
 ## 2026
 
 ### June 2026
+* [2026-06-04 Ability to cancel funding has been itself been cancelled (or has it) ?](2026-06-04-cancel-funding.md)
 * [2026-06-02 Finding missing resource tags](2026-06-02-finding-missing-resource-tags.md)
 
 ### May 2026
