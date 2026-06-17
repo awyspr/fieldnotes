@@ -14,7 +14,7 @@ https://awsapichanges.com/archive/changes/e078c6-partnercentral-selling.html
 10/Jun
 Combo of https://awsiamchanges.com/changes/1780704000-aws-marketplace-catalog.html and https://github.com/zoph-io/IAMTrail/commit/ac642fba249a1459c4c6cd143a222b4f57c22996 - marketplacesellerfull and evidence verification
 
-1/Jun
+4/Jun
 One of our customers asked us about this, so we worked it out.
 In the legacy version of PartnerCentral, and specifically in APFP, you could lifecycle manage funding applications
 in the UI, including cancelling existing funding applications.
