@@ -2,11 +2,18 @@
 
 ## 2026-06 Running
 
-17/Jun Agentic RTS for AWSMP
+17/Jun Agentic GRTS for AWSMP
 https://aws.amazon.com/blogs/apn/get-ready-to-sell/
+Fairly well telegraphed progression down the "integrate, automate and agentify" partner motions - partners not in this game are going to be left
+behind.
 
 17/Jun NY Summit Storefronts
 https://aws.amazon.com/marketplace/partners/storefront
+Might be interpreted as AWS recognising that partners are more likely to be successful if they manage the channel to market under their own steam
+rather than trying to push them directly to marketplace, and hey AWS takes the same clip of the transaction anyway. Agentic probably native. Non-agentic will be distributed. Thoughts.
+
+In a lot of ways this feels really like a layer on top of the older Buy with AWS program and platform.
+No APIs yet.
 
 16/Jun 
 https://awsapichanges.com/archive/changes/e078c6-partnercentral-selling.html
