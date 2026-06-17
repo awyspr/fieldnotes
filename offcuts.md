@@ -11,11 +11,21 @@ https://aws.amazon.com/marketplace/partners/storefront
 16/Jun 
 https://awsapichanges.com/archive/changes/e078c6-partnercentral-selling.html
 
-13/Jun
-no cancel funding in PC UI, how to do it with API instead
-
 10/Jun
 Combo of https://awsiamchanges.com/changes/1780704000-aws-marketplace-catalog.html and https://github.com/zoph-io/IAMTrail/commit/ac642fba249a1459c4c6cd143a222b4f57c22996 - marketplacesellerfull and evidence verification
+
+1/Jun
+One of our customers asked us about this, so we worked it out.
+In the legacy version of PartnerCentral, and specifically in APFP, you could lifecycle manage funding applications
+in the UI, including cancelling existing funding applications.
+
+With the move to PC v3.0 in Console, this cancellation option isn't available. We asked AWS support and were told
+"yes we know because many people complained that this has gone away, we are assured it will come back eventually" 
+(OK thats not verbatim ... but you get the idea).
+
+no cancel funding in PC UI, how to do it with API instead
+
+As a bonus though, you can reset
 
 ## 2026-02 Older
 
