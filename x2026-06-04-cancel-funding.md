@@ -20,7 +20,7 @@ Then we worked it out anyway.
 You can do this with the PartnerCentral Benefits API, which was released in late 2025.
 Its not even as hairy as you might think.
 
-### Cancelling or not, the choice is yours
+## Cancelling or not, the choice is yours
 
 The `CanelBenefitApplication` method allows you to cancel an in-progress benefit (ie funding)
 application. If you use this method, it sets the application status to cancelled, which
@@ -28,7 +28,7 @@ permanently stops processing.
 
 We need to do a few things to set this up.
 
-#### Finding the Benefit Application
+### Finding the Benefit Application
 First up we need to work out the Benefit Application metadata.
 You can do this in the PartnerCentral UI if you like, but since you can't do anything
 with that information, its probably more sensible to work with the API.
@@ -54,7 +54,7 @@ Else some other useful parameters are:
 - `[--fulfillment-types <value>` - to filter by fulfillment types (CASH, CREDIT, ACCESS)
 - `--status <value>` (PENDING_SUBMISSION, IN_REVIEW, ACTION_REQUIRED, APPROVED, REJECTED, CANCELED)
 
-#### Cancelling
+### Cancelling
 
 We can use the (`CancelBenefitsApplication` method](https://docs.aws.amazon.com/partner-central/latest/APIReference/API_benefits_CancelBenefitApplication.html]
 
@@ -81,7 +81,7 @@ The `reason` is optional, but encouraged - some text which describes why you are
 Be very clear - **this is not reversible**. Once a benefit/funding application is cancelled, it cannot be reactivated and you must start
 again from the top.
 
-#### Not Cancelling, Just Recalling
+### Not Cancelling, Just Recalling
 As a bonus though, you can recall a benefit application via the API as well.
 
 Recalling puts the application in draft. You can't recall an application that has progressed past Pre-Approval though, you
