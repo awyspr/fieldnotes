@@ -18,6 +18,7 @@ No APIs yet.
 16/Jun 
 https://awsapichanges.com/archive/changes/e078c6-partnercentral-selling.html
 Added Prospecting APIs to convert engagements into AI-enriched leads with scoring insights. Extended Engagement APIs with ProspectingResult and Lead contexts. Added CoSell Scoring to GetAwsOpportunitySummary- quality score, trend, agent-driven recommendations, and engagement classification.
+Joining some dots - human co-sell will be heavily biased based on propensity and other deal factors (size, timing), agentic co-sell will be in the middle, and partners will be doing it for themselves at low propensity. Presume that incentives will be rebalanced in a similar way, with or without PRM.
 
 
 ## 2026-02 Older
