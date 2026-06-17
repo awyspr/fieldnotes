@@ -9,7 +9,7 @@
 In the legacy version of PartnerCentral, and specifically in APFP, you could lifecycle manage funding applications
 in the UI, including cancelling existing funding applications.
 
-With the move to PC v3.0 in Console, this cancellation option isn't available. 
+With the move to PC v3.0 in Console, this UI cancellation option isn't available any more. 
 
 One of our customers asked us about this, so we asked our friendly PDM and AWS partner support and were 
 told "yes, we know because many people complained that this has gone away, we are assured it will come back 
