@@ -11,9 +11,6 @@ https://aws.amazon.com/marketplace/partners/storefront
 16/Jun 
 https://awsapichanges.com/archive/changes/e078c6-partnercentral-selling.html
 
-10/Jun
-Combo of https://awsiamchanges.com/changes/1780704000-aws-marketplace-catalog.html and https://github.com/zoph-io/IAMTrail/commit/ac642fba249a1459c4c6cd143a222b4f57c22996 - marketplacesellerfull and evidence verification
-
 
 ## 2026-02 Older
 
