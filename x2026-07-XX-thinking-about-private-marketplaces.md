@@ -10,6 +10,8 @@ https://docs.aws.amazon.com/marketplace/latest/buyerguide/private-marketplace-cu
 
 ### Minor heading
 
+also extends a bit on the private storefronts idea from NY Summit
+
 Text
 
 ```
