@@ -56,7 +56,7 @@ Else some other useful parameters are:
 
 ### Cancelling
 
-We can use the (`CancelBenefitsApplication` method](https://docs.aws.amazon.com/partner-central/latest/APIReference/API_benefits_CancelBenefitApplication.html]
+We can use the [`CancelBenefitsApplication` method](https://docs.aws.amazon.com/partner-central/latest/APIReference/API_benefits_CancelBenefitApplication.html)
 
 if we are serious, we can cancel the application. Using the AWS CLI:
 
