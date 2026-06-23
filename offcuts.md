@@ -15,6 +15,9 @@ rather than trying to push them directly to marketplace, and hey AWS takes the s
 In a lot of ways this feels really like a layer on top of the older Buy with AWS program and platform.
 No APIs yet.
 
+16/Jun
+https://aws.amazon.com/about-aws/whats-new/2026/06/ai-assisted-product-listing/
+
 16/Jun 
 https://awsapichanges.com/archive/changes/e078c6-partnercentral-selling.html
 Added Prospecting APIs to convert engagements into AI-enriched leads with scoring insights. Extended Engagement APIs with ProspectingResult and Lead contexts. Added CoSell Scoring to GetAwsOpportunitySummary- quality score, trend, agent-driven recommendations, and engagement classification.
