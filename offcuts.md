@@ -1,5 +1,10 @@
 # Offcuts & WIP Notes
 
+## 2026-07 Running
+https://awsapichanges.com/archive/changes/7ad90e-partnercentral-selling.html
+This release adds AwsMarketplaceSolutions and AwsMarketplaceProducts entity types to the Associate and Disassociate APIs, returns them in GetOpportunity, and adds AwsMarketplaceSolutionArn to ListSolutions ,letting partners link Marketplace listings directly to opportunities.
+
+
 ## 2026-06 Running
 
 17/Jun Agentic GRTS for AWSMP
