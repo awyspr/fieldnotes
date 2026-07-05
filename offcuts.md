@@ -5,6 +5,10 @@ https://awsapichanges.com/archive/changes/7ad90e-partnercentral-selling.html
 This release adds AwsMarketplaceSolutions and AwsMarketplaceProducts entity types to the Associate and Disassociate APIs, returns them in GetOpportunity, and adds AwsMarketplaceSolutionArn to ListSolutions ,letting partners link Marketplace listings directly to opportunities.
 
 
+https://aws.amazon.com/blogs/aws-cloud-financial-management/automate-aws-invoice-retrieval-with-new-programmatic-apis
+Automate AWS Invoice Retrieval with New Programmatic APIs -
+An API to download the invoices documenting how much they charge you, free of charge. The generosity is staggering. Finance teams have spent years clicking through hundreds of payer accounts like it's 2009, the post admits this, but somehow presents it as "innovation" rather than "dreadfully, painfully late."
+
 ## 2026-06 Running
 
 17/Jun Agentic GRTS for AWSMP
