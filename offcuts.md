@@ -4,6 +4,10 @@
 
 https://awsiamchanges.com/changes/1782907200-partnercentral.html
 Lots of methods (15-20) re marketplace revenue shares in AWS Partner Central
+And an associated set of IAM managed policy changes
+https://github.com/zoph-io/IAMTrail/commit/34f3a5ae63c9f7945b9aa8d32f5e48ae980b0918
+https://github.com/zoph-io/IAMTrail/commit/45b641a8d8a00e624733af1492562d5fad6986d8
+
 
 
 https://awsapichanges.com/archive/changes/7ad90e-partnercentral-selling.html
