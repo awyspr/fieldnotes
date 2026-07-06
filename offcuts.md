@@ -1,6 +1,11 @@
 # Offcuts & WIP Notes
 
 ## 2026-07 Running
+
+https://awsiamchanges.com/changes/1782907200-partnercentral.html
+Lots of methods (15-20) re marketplace revenue shares in AWS Partner Central
+
+
 https://awsapichanges.com/archive/changes/7ad90e-partnercentral-selling.html
 This release adds AwsMarketplaceSolutions and AwsMarketplaceProducts entity types to the Associate and Disassociate APIs, returns them in GetOpportunity, and adds AwsMarketplaceSolutionArn to ListSolutions ,letting partners link Marketplace listings directly to opportunities.
 
