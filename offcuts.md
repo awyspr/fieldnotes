@@ -35,6 +35,7 @@ No APIs yet.
 
 16/Jun
 https://aws.amazon.com/about-aws/whats-new/2026/06/ai-assisted-product-listing/
+Maybe we are biased but the "Strength" analysis is kinda interesting. Would be even more so if it was exposed as a metric on an API for comparison.
 
 16/Jun 
 https://awsapichanges.com/archive/changes/e078c6-partnercentral-selling.html
