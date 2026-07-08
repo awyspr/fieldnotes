@@ -28,8 +28,7 @@ Here's a few of our observations:
 ## Other Notes
 A few other things we noticed working with PartnerCentral Agents and reading the supporting release material:
 
-- In the Agents in PartnerCentral announcement and the docs, one future direction seems to be that partners could upload raw/unstructured data to the PartnerCentral Agents - eg call transcripts, documents, diagrams etc. While there's potentially some good utility with this there are two counterpoints: 1) perhaps these artefacts should go into a partner's CRM via a similar AI analysis process and then get synced to ACE and 2) if you are uploading those
-- more raw materials, what are the safeguards about the content and the arrangements for data ownership ?
+- In the Agents in PartnerCentral announcement and the docs, one future direction seems to be that partners could upload raw/unstructured data to the PartnerCentral Agents - eg call transcripts, documents, diagrams etc. While there's potentially some good utility with this there are two counterpoints: 1) perhaps these artefacts should go into a partner's CRM via a similar AI analysis process and then get synced to ACE and 2) if you are uploading those additional raw materials, what are the safeguards about the content and the arrangements for data ownership ?
 
 - We ran a few experiments with asking PartnerCentral Agent about opportunities which straddle the partner boundary - for example being legitimately shared with another partner as joint pursuits. It turns out that there is potential for leakage unless the AI guardrails are tightened a bit - opportunity sharing seems to allow you some level of insight into the other partner's history with the customer in question (eg how many other opportunities in a period), or beyond (how many other opportunities which have a similar solution and their industry/segment distribution). Take care.
  
