@@ -18,6 +18,9 @@ https://aws.amazon.com/blogs/aws-cloud-financial-management/automate-aws-invoice
 Automate AWS Invoice Retrieval with New Programmatic APIs -
 An API to download the invoices documenting how much they charge you, free of charge. The generosity is staggering. Finance teams have spent years clicking through hundreds of payer accounts like it's 2009, the post admits this, but somehow presents it as "innovation" rather than "dreadfully, painfully late."
 
+
+https://docs.aws.amazon.com/marketplace/latest/userguide/search-engine-optimization.html
+
 ## 2026-06 Running
 
 17/Jun Agentic GRTS for AWSMP
