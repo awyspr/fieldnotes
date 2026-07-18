@@ -2,12 +2,14 @@
 
 # Creating budgets via API
 
-2026-06-XX
+2026-07-(after 20)
 
 ## What's this one all about then ?
 
 ~ 8 Jun creating budgets via API https://docs.aws.amazon.com/aws-cost-management/latest/APIReference/API_budgets_CreateBudget.html
 
+After the recent snafu with billing estimates, a couple of folk have asked about systematic ways to create and manage budgets.
+...
 
 ### Minor heading
 
