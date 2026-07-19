@@ -1,5 +1,9 @@
 # Offcuts & WIP Notes
 
+## 2026-08 Running
+
+awsmp-ezfulfill release - a give back
+
 ## 2026-07 Running
 
 https://awsiamchanges.com/changes/1782907200-partnercentral.html
