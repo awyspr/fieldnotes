@@ -4,22 +4,21 @@
 
 ## 2026-07 Running
 
+https://awsapichanges.com/archive/changes/f6d4b3-partnercentral-prm.html
+Add support for AWS Partner Central Revenue Measurement API for creating, managing, and tracking revenue attributions and marketplace revenue share allocations.
+
 https://awsiamchanges.com/changes/1782907200-partnercentral.html
 Lots of methods (15-20) re marketplace revenue shares in AWS Partner Central
 And an associated set of IAM managed policy changes
 https://github.com/zoph-io/IAMTrail/commit/34f3a5ae63c9f7945b9aa8d32f5e48ae980b0918
 https://github.com/zoph-io/IAMTrail/commit/45b641a8d8a00e624733af1492562d5fad6986d8
 
-
-
 https://awsapichanges.com/archive/changes/7ad90e-partnercentral-selling.html
 This release adds AwsMarketplaceSolutions and AwsMarketplaceProducts entity types to the Associate and Disassociate APIs, returns them in GetOpportunity, and adds AwsMarketplaceSolutionArn to ListSolutions ,letting partners link Marketplace listings directly to opportunities.
-
 
 https://aws.amazon.com/blogs/aws-cloud-financial-management/automate-aws-invoice-retrieval-with-new-programmatic-apis
 Automate AWS Invoice Retrieval with New Programmatic APIs -
 An API to download the invoices documenting how much they charge you, free of charge. The generosity is staggering. Finance teams have spent years clicking through hundreds of payer accounts like it's 2009, the post admits this, but somehow presents it as "innovation" rather than "dreadfully, painfully late."
-
 
 https://docs.aws.amazon.com/marketplace/latest/userguide/search-engine-optimization.html
 
