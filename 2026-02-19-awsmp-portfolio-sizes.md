@@ -17,7 +17,7 @@ listings.
 ## Our (somewhat incorrect) assumptions
 
 We'd assumed prior to this, and based on a few years of experience in working with different sized/shaped AWS partners with Marketplace 
-presence that the bell curve was something like this:
+presence that the curve was something like this:
 
 - 75% of AWSMP sellers have 1 product
 - 15% of AWSMP sellers have 2-5 products
