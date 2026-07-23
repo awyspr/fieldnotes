@@ -56,10 +56,10 @@ This seller has 206 public Marketplace entries, dominated by data sets (eg ADX).
 ### The Not-Quite-So-Big Guns
 
 - [kCloudHubs LLC](https://aws.amazon.com/marketplace/seller-profile?id=seller-kuxjetipx54va)
-This seller has 127 public Marketplace entries ... This seemed quite a large number until we found NMSC and Bitnami and ProComputers.
+This seller has 127 public Marketplace entries ... This seemed quite a large number until we found NMSC and Bitnami and ProComputers and rearc.
 
 - [Deloitte Consulting LLP](https://aws.amazon.com/marketplace/seller-profile?id=seller-qkumbjysee36y)
-This seller has 126 public Marketplace entries ... Again this seemed quite a large number until we found NMSC and Bitnami and ProComputers.
+This seller has 126 public Marketplace entries ... Again this seemed quite a large number until we found NMSC and Bitnami and ProComputers and rearc.
 
 - [ATH InfoSystems](https://aws.amazon.com/marketplace/seller-profile?id=d5fbea8c-b245-4d44-9bbe-42f583e64b54)
 This seller has 99 public Marketplace entries ...
@@ -88,7 +88,7 @@ This seller has 52 public Marketplace entries ...
 We had to draw the line somewhere, the ones below are still significant but they are clearly
 not in the same weight division as the ones in the earlier sections.
 
-- [Incdeo](https://aws.amazon.com/marketplace/seller-profile?id=seller-l3wixqx4jffqq)
+- [Incedo](https://aws.amazon.com/marketplace/seller-profile?id=seller-l3wixqx4jffqq)
 This seller has 49 public Marketplace entries ...
 
 - [Kyndryl](https://aws.amazon.com/marketplace/seller-profile?id=268da0a8-95a0-442d-92d0-14e40517f09c)
