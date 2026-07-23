@@ -2,7 +2,7 @@
 
 # Does Marketplace Portfolio Size Matter ?
 
-2026-02-19
+2026-02-19 (updated 2026-07-23)
 
 ## What's this one all about then ?
 
@@ -70,6 +70,10 @@ This seller has 92 public Marketplace entries ...
 
 - [Canonical Group Limited](https://aws.amazon.com/marketplace/seller-profile?id=565feec9-3d43-413e-9760-c651546613f2)
 This seller has 82 public Marketplace entries ...
+
+- [WolkenHai](https://aws.amazon.com/marketplace/seller-profile?id=seller-ipgeizbfr7yrk)
+This seller has 63 public Marketplace entries ... but they are a publisher-facilitator so most of them are under their seller
+profile but actually come from other companies they are contracted for
 
 - [Waltsoft](https://aws.amazon.com/marketplace/seller-profile?id=4bf1a800-d6fc-4c1f-8e88-76ef2dbfb77c)
 This seller has 58 public Marketplace entries ...
