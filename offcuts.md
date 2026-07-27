@@ -4,6 +4,12 @@
 
 ## 2026-07 Running
 
+https://github.com/zoph-io/IAMTrail/commit/409e833924e50b8ca24e670ab57cc81f83ffd72f
+Tax Compliance specific perms
+
+https://awsapichanges.com/archive/changes/02b074-partnercentral-account.html
+Adds Qualifications Association APIs that enable partners to associate a subsidiary account's qualifications with a primary account. Once associated, qualifications are shared across all connected accounts and scorecards are consolidated. Partners can start and track association and disassociation.
+
 https://awsapichanges.com/archive/changes/f6d4b3-partnercentral-prm.html
 Add support for AWS Partner Central Revenue Measurement API for creating, managing, and tracking revenue attributions and marketplace revenue share allocations.
 
