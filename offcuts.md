@@ -2,6 +2,12 @@
 
 ## 2026-08 Running
 
+Freebie - document Hubspot data model/field customizations
+https://github.com/awyspr/hubspot-customdoc/
+
+Freebie - saas provision shim
+https://github.com/awyspr/awsmp-ezfulfill
+
 ## 2026-07 Running
 
 https://github.com/zoph-io/IAMTrail/commit/409e833924e50b8ca24e670ab57cc81f83ffd72f
