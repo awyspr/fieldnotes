@@ -8,6 +8,13 @@ https://github.com/awyspr/hubspot-customdoc/
 Freebie - saas provision shim
 https://github.com/awyspr/awsmp-ezfulfill
 
+https://awsapichanges.com/archive/changes/21e1f1-catalog.marketplace.html
+This release enhances the ListEntities API to support TargetAgreementId, TargetAgreementIntent, and CreatedBySource filters for the Offer entity type.
+
+https://awsapichanges.com/archive/changes/1ea078-partnercentral-account.html
+Adds optional headquarters location to StartProfileUpdateTask, letting partners record their headquarters as an ISO 3166 country and subdivision code on their profile. When headquarters is provided, both the country and subdivision codes are required.
+
+
 ## 2026-07 Running
 
 https://github.com/zoph-io/IAMTrail/commit/409e833924e50b8ca24e670ab57cc81f83ffd72f
