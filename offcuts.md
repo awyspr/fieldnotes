@@ -2,6 +2,8 @@
 
 ## 2026-08 Running
 
+IAM - skinny perms for Marketplace - not FullAccess not Seller just update content ...
+
 Freebie - document Hubspot data model/field customizations
 https://github.com/awyspr/hubspot-customdoc/
 
