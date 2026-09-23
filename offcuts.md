@@ -2,6 +2,8 @@
 
 ## 2026-09 Running
 
+9 Sep https://aws.amazon.com/about-aws/whats-new/2026/09/aws-marketplace-demo-private-offer-requests-qualification/ - does this mean ACE opportunities automatically raised from demo/private offer request ?
+
 https://awsapichanges.com/archive/changes/31b875-discovery-marketplace.html
 
 https://aws.amazon.com/blogs/apn/solution-matching-engine-your-gateway-to-aws-sellers/
